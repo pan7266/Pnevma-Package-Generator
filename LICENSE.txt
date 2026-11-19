@@ -1,0 +1,50 @@
+Pnevma Package Manager - End User Licence Agreement
+
+Copyright (c) 2026 Pnevma. All rights reserved.
+
+This is proprietary software. It is licensed, not sold. By downloading, installing
+or using it you agree to the terms below. If you do not agree, do not use it.
+
+1. Licence
+   The owner grants you a personal, non-exclusive, non-transferable licence to run
+   one copy of the software on one computer, for the period of a valid trial or
+   subscription that the owner grants to your Pnevma account, or of a key the owner
+   issues to you. Each licence works on one computer at a time. Without a valid
+   licence the software will not run.
+
+2. Trial
+   A trial works for a limited number of days on one computer. When it ends, the
+   software locks. To continue, contact info@pnevmagifts.gr.
+
+3. What you may not do
+   You may NOT, in whole or in part:
+   a. copy, publish, share, sell, rent, lend or redistribute the software, your
+      account access or a key;
+   b. reverse engineer, decompile, disassemble or otherwise try to obtain or recover
+      its source code, except where that right cannot be excluded by law;
+   c. remove, bypass, disable or tamper with the licence check, the key, or any
+      protection, or help anyone else do so;
+   d. use the software, its code, its interface, its output or any part of it to
+      train, fine-tune, test or build any machine-learning or AI model or dataset,
+      or to create a competing or derivative product;
+   e. use it beyond the scope or time of the licence or key issued to you.
+
+4. Ownership
+   The software and all intellectual property in it remain the owner's. This licence
+   gives you no ownership of it. Boxes and files YOU design and export with it are
+   yours; the software itself is not.
+
+5. No warranty
+   The software is provided "as is", without warranty of any kind. You use it at your
+   own risk. To the maximum extent allowed by law, the owner is not liable for any
+   loss or damage arising from its use, including spoiled material or lost work.
+
+6. Ending
+   This licence ends automatically if you break any term, or when your licence or key
+   ends. On ending, stop using the software and delete your copy.
+
+7. Law
+   This agreement is governed by the law of Greece, and the courts of Greece have
+   jurisdiction.
+
+Contact: info@pnevmagifts.gr
