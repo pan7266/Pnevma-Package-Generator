@@ -2,11 +2,13 @@
 
 END USER LICENSE AGREEMENT AND PRIVACY NOTICE
 
-Version 1.0, effective 20 November 2026
+Version 1.1, effective 20 November 2026
 
 This End User License Agreement ("Agreement") is a contract between you and
-Pnevma ("Pnevma", "we", "us"), the owner of Pnevma Package Manager. Contact:
-info@pnevmagifts.gr, https://pnevmagifts.gr.
+Anastasia Pnevmatikou (Πνευματικού Αναστασία), Kountouriotou 7, 18756
+Keratsini, Greece, tax number (AFM) 157448195 ("Pnevma", "we", "us"), the
+owner of Pnevma Package Manager. Contact: info@pnevmagifts.gr,
+https://pnevmagifts.gr.
 
 Please read it carefully. Part B explains how we handle your personal data. By
 selecting "Accept and continue" in the software, or by installing or using it,
@@ -36,10 +38,11 @@ PART A. LICENSE TERMS
 2. LICENSE GRANT
 
 Subject to this Agreement and to payment of any fees that apply, we grant you
-a personal, non-exclusive, non-transferable and revocable license to install
-and use the Software on one computer at a time, for the period of your
-License. You may use it for personal purposes and for the purposes of your own
-business, including making products that you sell.
+a personal, non-exclusive and non-transferable license to install and use the
+Software on one computer at a time, for the period of your License. We can end
+it early only as section 9 describes. You may use it for personal purposes and
+for the purposes of your own business, including making products that you
+sell.
 
 One License covers one computer. If you replace your computer, contact us and
 we will move your License to the new one, within reason.
@@ -74,14 +77,16 @@ are not expressly granted to you.
 (a) A trial lets you use the Software free of charge for a limited number of
     days. It ends automatically, with no charge and no obligation. We may
     limit trials to one per person and per computer.
-(b) The price, billing period, renewal and payment of a subscription are
-    agreed when you order it, for example in our offer, order confirmation or
-    invoice. Those order terms form part of this Agreement, and they prevail
-    over it on price and payment.
-(c) If you are a Consumer, you may have a right to withdraw from a paid order
-    within 14 days. We explain that right when you order, including when it
-    ends because, at your express request, we start supplying the Software
-    within that period.
+(b) Paid subscriptions are sold under our Order Terms, together with our offer
+    or order confirmation, which state the price, the billing period and the
+    payment details. The Order Terms are installed with the Software in the
+    Legal folder and published with each release as ORDER-TERMS.txt. They form
+    part of this Agreement and prevail over it on price, payment, renewal and
+    withdrawal.
+(c) If you are a Consumer, you have a right to withdraw from a paid order
+    within 14 days. The Order Terms explain that right, and when it ends
+    because, at your express request, we start supplying the Software within
+    that period.
 
 5. WHAT YOU MAY NOT DO
 
@@ -143,11 +148,13 @@ this section, you must not:
     working with the license service, or add or change features. Some updates
     may be required to keep using the license service.
 (b) If you are a Consumer, we provide the updates needed to keep the Software
-    in conformity with this Agreement for the period required by law. If we
-    change the Software in a way that goes beyond keeping it in conformity, we
-    do so only as the law allows, and we tell you in advance when a change
-    will negatively affect your use of it more than slightly. In that case you
-    may end your subscription free of charge within 30 days of the change.
+    in conformity with this Agreement for the period required by law. Beyond
+    that, we change the Software only for the reasons in (a) and at no extra
+    cost to you. If a change will negatively affect your access to or use of
+    the Software more than slightly, we tell you in advance by e-mail; you may
+    then end your subscription free of charge within 30 days of our message or
+    of the change, whichever is later, and we refund the unused part of any
+    fee you paid in advance.
 (c) We may update this Agreement, for example when the Software, the law or
     our services change. The Software shows you the new version and asks you
     to accept it. If you do not accept it, you may stop using the Software
@@ -159,7 +166,7 @@ this section, you must not:
 (a) This Agreement starts when you accept it and continues while you hold a
     License.
 (b) You may stop using the Software at any time. Ending a paid subscription is
-    governed by its order terms.
+    governed by the Order Terms.
 (c) We may suspend or end your License if you materially breach this
     Agreement. Unless the breach is serious (for example, piracy or bypassing
     the license checks) or cannot be put right, we first tell you about it and
@@ -219,8 +226,9 @@ We handle your personal data as Part B describes.
 
 14. GENERAL
 
-(a) This Agreement, together with the order terms of your License, is the
-    entire agreement between you and us about the Software.
+(a) This Agreement, together with the Order Terms and the offer or order
+    confirmation of your License, is the entire agreement between you and us
+    about the Software.
 (b) If any part of this Agreement is found invalid or unenforceable, the rest
     remains in force, and the invalid part is replaced by a valid one that
     comes as close as possible to its purpose.
@@ -230,9 +238,9 @@ We handle your personal data as Part B describes.
     provided that your rights under it are not reduced.
 (e) We may send you notices about the Software and your License to the e-mail
     address of your Account, or show them in the Software.
-(f) You can keep a copy of this Agreement: it is installed with the Software
-    as LICENSE.txt and in the Legal folder, and you can open it at any time in
-    Settings.
+(f) You can keep a copy of this Agreement: it is published with each release
+    as LICENSE.txt, it is installed with the Software in the Legal folder, and
+    you can open it at any time in Settings.
 
 PART B. PRIVACY NOTICE
 
@@ -242,7 +250,8 @@ Software, as the EU General Data Protection Regulation (Regulation (EU)
 
 B1. WHO IS RESPONSIBLE
 
-Pnevma is the controller of the personal data described here. Contact:
+The controller of the personal data described here is Anastasia Pnevmatikou
+(Πνευματικού Αναστασία), Kountouriotou 7, 18756 Keratsini, Greece. Contact:
 info@pnevmagifts.gr.
 
 B2. WHAT DATA WE PROCESS
@@ -262,7 +271,7 @@ B2. WHAT DATA WE PROCESS
 (d) Support data: the messages you send us and the details you choose to
     include, such as your computer code and license status.
 (e) Payment and invoicing data, when you order a paid subscription, as our
-    order terms describe.
+    Order Terms describe.
 
 What stays on your computer: Your Designs, your logos, your settings, your
 signed license and your sign-in session (stored encrypted for your Windows
@@ -349,7 +358,9 @@ section 8(c) describes.
 
 CONTACT
 
-Pnevma, e-mail info@pnevmagifts.gr, web https://pnevmagifts.gr
+Anastasia Pnevmatikou (Πνευματικού Αναστασία), Kountouriotou 7, 18756
+Keratsini, Greece, tax number (AFM) 157448195, e-mail info@pnevmagifts.gr, web
+https://pnevmagifts.gr
 
 ==============================================================================
 
@@ -357,11 +368,12 @@ PNEVMA PACKAGE MANAGER
 
 ΣΥΜΒΑΣΗ ΑΔΕΙΑΣ ΧΡΗΣΗΣ ΤΕΛΙΚΟΥ ΧΡΗΣΤΗ ΚΑΙ ΕΝΗΜΕΡΩΣΗ ΓΙΑ ΤΑ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ
 
-Έκδοση 1.0, σε ισχύ από 20 Νοεμβρίου 2026
+Έκδοση 1.1, σε ισχύ από 20 Νοεμβρίου 2026
 
 Η παρούσα Σύμβαση Άδειας Χρήσης Τελικού Χρήστη («Σύμβαση») συνάπτεται μεταξύ
-εσάς και της Pnevma («Pnevma», «εμείς»), δικαιούχου του Pnevma Package
-Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
+εσάς και της Πνευματικού Αναστασίας, Κουντουριώτου 7, 18756 Κερατσίνι, ΑΦΜ
+157448195 («Pnevma», «εμείς»), δικαιούχου του Pnevma Package Manager.
+Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
 
 Παρακαλούμε διαβάστε την προσεκτικά. Το Μέρος Β εξηγεί πώς χειριζόμαστε τα
 προσωπικά σας δεδομένα. Επιλέγοντας «Αποδοχή και συνέχεια» στο λογισμικό, ή
@@ -394,11 +406,12 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
 2. ΠΑΡΑΧΩΡΗΣΗ ΑΔΕΙΑΣ
 
 Υπό την επιφύλαξη της παρούσας Σύμβασης και της καταβολής των τελών που τυχόν
-ισχύουν, σας παραχωρούμε προσωπική, μη αποκλειστική, μη μεταβιβάσιμη και
-ανακλητή άδεια να εγκαταστήσετε και να χρησιμοποιείτε το Λογισμικό σε έναν
-υπολογιστή κάθε φορά, για όσο διαρκεί η Άδειά σας. Μπορείτε να το
-χρησιμοποιείτε για προσωπικούς σκοπούς και για τους σκοπούς της δικής σας
-επιχείρησης, μεταξύ άλλων για την κατασκευή προϊόντων που πωλείτε.
+ισχύουν, σας παραχωρούμε προσωπική, μη αποκλειστική και μη μεταβιβάσιμη άδεια
+να εγκαταστήσετε και να χρησιμοποιείτε το Λογισμικό σε έναν υπολογιστή κάθε
+φορά, για όσο διαρκεί η Άδειά σας. Μπορούμε να τη λύσουμε νωρίτερα μόνο όπως
+περιγράφει το άρθρο 9. Μπορείτε να το χρησιμοποιείτε για προσωπικούς σκοπούς
+και για τους σκοπούς της δικής σας επιχείρησης, μεταξύ άλλων για την κατασκευή
+προϊόντων που πωλείτε.
 
 Μία Άδεια καλύπτει έναν υπολογιστή. Αν αντικαταστήσετε τον υπολογιστή σας,
 επικοινωνήστε μαζί μας και θα μεταφέρουμε την Άδειά σας στον νέο, εντός
@@ -437,16 +450,17 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
     περιορισμένο αριθμό ημερών. Λήγει αυτόματα, χωρίς χρέωση και χωρίς καμία
     δέσμευση. Μπορούμε να περιορίσουμε τις δοκιμές σε μία ανά πρόσωπο και ανά
     υπολογιστή.
-(β) Η τιμή, η περίοδος χρέωσης, η ανανέωση και η πληρωμή μιας συνδρομής
-    συμφωνούνται κατά την παραγγελία της, για παράδειγμα στην προσφορά, στην
-    επιβεβαίωση παραγγελίας ή στο τιμολόγιό μας. Οι όροι αυτοί της παραγγελίας
-    αποτελούν μέρος της παρούσας Σύμβασης και υπερισχύουν αυτής ως προς την
-    τιμή και την πληρωμή.
-(γ) Αν είστε Καταναλωτής, μπορεί να έχετε δικαίωμα υπαναχώρησης από επί
-    πληρωμή παραγγελία εντός 14 ημερών. Σας ενημερώνουμε για το δικαίωμα αυτό
-    κατά την παραγγελία, καθώς και για το πότε παύει να ισχύει επειδή, κατόπιν
-    ρητού αιτήματός σας, αρχίζουμε να παρέχουμε το Λογισμικό μέσα στην
-    προθεσμία αυτή.
+(β) Οι επί πληρωμή συνδρομές πωλούνται σύμφωνα με τους Όρους Παραγγελίας μας,
+    μαζί με την προσφορά ή την επιβεβαίωση παραγγελίας μας, όπου αναφέρονται η
+    τιμή, η περίοδος χρέωσης και τα στοιχεία πληρωμής. Οι Όροι Παραγγελίας
+    εγκαθίστανται με το Λογισμικό στον φάκελο Legal και δημοσιεύονται με κάθε
+    έκδοση ως ORDER-TERMS.txt. Αποτελούν μέρος της παρούσας Σύμβασης και
+    υπερισχύουν αυτής ως προς την τιμή, την πληρωμή, την ανανέωση και την
+    υπαναχώρηση.
+(γ) Αν είστε Καταναλωτής, έχετε δικαίωμα υπαναχώρησης από επί πληρωμή
+    παραγγελία εντός 14 ημερών. Οι Όροι Παραγγελίας εξηγούν το δικαίωμα αυτό,
+    καθώς και πότε παύει να ισχύει επειδή, κατόπιν ρητού αιτήματός σας,
+    αρχίζουμε να παρέχουμε το Λογισμικό μέσα στην προθεσμία αυτή.
 
 5. ΤΙ ΔΕΝ ΕΠΙΤΡΕΠΕΤΑΙ
 
@@ -520,11 +534,14 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
     για να συνεχίσετε να χρησιμοποιείτε την υπηρεσία αδειών.
 (β) Αν είστε Καταναλωτής, παρέχουμε τις ενημερώσεις που χρειάζονται ώστε το
     Λογισμικό να παραμένει σύμφωνο με την παρούσα Σύμβαση για το διάστημα που
-    ορίζει ο νόμος. Αν αλλάξουμε το Λογισμικό πέρα από ό,τι χρειάζεται για να
-    παραμένει σύμφωνο, το κάνουμε μόνο όπως επιτρέπει ο νόμος, και σας
-    ενημερώνουμε εκ των προτέρων όταν μια αλλαγή θα επηρεάσει αρνητικά τη
-    χρήση του περισσότερο από ελάχιστα. Στην περίπτωση αυτή μπορείτε να λύσετε
-    τη συνδρομή σας χωρίς χρέωση εντός 30 ημερών από την αλλαγή.
+    ορίζει ο νόμος. Πέρα από αυτό, αλλάζουμε το Λογισμικό μόνο για τους λόγους
+    της περίπτωσης (α) και χωρίς επιπλέον κόστος για εσάς. Αν μια αλλαγή θα
+    επηρεάσει αρνητικά την πρόσβαση ή τη χρήση σας περισσότερο από ελάχιστα,
+    σας ενημερώνουμε εκ των προτέρων με email· μπορείτε τότε να λύσετε τη
+    συνδρομή σας χωρίς χρέωση εντός 30 ημερών από το μήνυμά μας ή από την
+    αλλαγή, όποιο είναι μεταγενέστερο, και σας επιστρέφουμε το μέρος κάθε
+    προκαταβληθέντος τέλους που αντιστοιχεί στον χρόνο που δεν
+    χρησιμοποιήθηκε.
 (γ) Μπορούμε να ενημερώνουμε την παρούσα Σύμβαση, για παράδειγμα όταν αλλάζει
     το Λογισμικό, ο νόμος ή οι υπηρεσίες μας. Το Λογισμικό σάς δείχνει τη νέα
     έκδοση και σας ζητά να την αποδεχτείτε. Αν δεν την αποδεχτείτε, μπορείτε
@@ -538,7 +555,7 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
 (α) Η παρούσα Σύμβαση ισχύει από τη στιγμή που την αποδέχεστε και για όσο
     διαθέτετε Άδεια.
 (β) Μπορείτε να σταματήσετε να χρησιμοποιείτε το Λογισμικό οποτεδήποτε. Η λύση
-    μιας επί πληρωμή συνδρομής διέπεται από τους όρους της παραγγελίας της.
+    μιας επί πληρωμή συνδρομής διέπεται από τους Όρους Παραγγελίας.
 (γ) Μπορούμε να αναστείλουμε ή να τερματίσουμε την Άδειά σας αν παραβιάσετε
     ουσιωδώς την παρούσα Σύμβαση. Εκτός αν η παράβαση είναι σοβαρή (για
     παράδειγμα, πειρατεία ή παράκαμψη των ελέγχων άδειας) ή δεν μπορεί να
@@ -603,8 +620,9 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
 
 14. ΓΕΝΙΚΟΙ ΟΡΟΙ
 
-(α) Η παρούσα Σύμβαση, μαζί με τους όρους παραγγελίας της Άδειάς σας, αποτελεί
-    την πλήρη συμφωνία μεταξύ εσάς και ημών για το Λογισμικό.
+(α) Η παρούσα Σύμβαση, μαζί με τους Όρους Παραγγελίας και την προσφορά ή την
+    επιβεβαίωση παραγγελίας της Άδειάς σας, αποτελεί την πλήρη συμφωνία μεταξύ
+    εσάς και ημών για το Λογισμικό.
 (β) Αν κάποιος όρος της παρούσας Σύμβασης κριθεί άκυρος ή ανεφάρμοστος, οι
     υπόλοιποι εξακολουθούν να ισχύουν, και ο άκυρος όρος αντικαθίσταται από
     έγκυρο που προσεγγίζει όσο το δυνατόν περισσότερο τον σκοπό του.
@@ -616,9 +634,9 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
 (ε) Μπορούμε να σας στέλνουμε ειδοποιήσεις για το Λογισμικό και την Άδειά σας
     στη διεύθυνση email του Λογαριασμού σας ή να τις εμφανίζουμε στο
     Λογισμικό.
-(στ) Μπορείτε να κρατήσετε αντίγραφο της παρούσας Σύμβασης: εγκαθίσταται με το
-     Λογισμικό ως LICENSE.txt και στον φάκελο Legal, και μπορείτε να την
-     ανοίξετε οποτεδήποτε από τις Ρυθμίσεις.
+(στ) Μπορείτε να κρατήσετε αντίγραφο της παρούσας Σύμβασης: δημοσιεύεται με
+     κάθε έκδοση ως LICENSE.txt, εγκαθίσταται με το Λογισμικό στον φάκελο
+     Legal, και μπορείτε να την ανοίξετε οποτεδήποτε από τις Ρυθμίσεις.
 
 ΜΕΡΟΣ Β. ΕΝΗΜΕΡΩΣΗ ΓΙΑ ΤΗΝ ΠΡΟΣΤΑΣΙΑ ΤΩΝ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ
 
@@ -628,8 +646,9 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
 
 Β1. ΥΠΕΥΘΥΝΟΣ ΕΠΕΞΕΡΓΑΣΙΑΣ
 
-Η Pnevma είναι υπεύθυνη επεξεργασίας για τα προσωπικά δεδομένα που
-περιγράφονται εδώ. Επικοινωνία: info@pnevmagifts.gr.
+Υπεύθυνη επεξεργασίας για τα προσωπικά δεδομένα που περιγράφονται εδώ είναι η
+Πνευματικού Αναστασία, Κουντουριώτου 7, 18756 Κερατσίνι. Επικοινωνία:
+info@pnevmagifts.gr.
 
 Β2. ΠΟΙΑ ΔΕΔΟΜΕΝΑ ΕΠΕΞΕΡΓΑΖΟΜΑΣΤΕ
 
@@ -651,7 +670,7 @@ Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
     επιλέγετε να περιλάβετε, όπως τον κωδικό υπολογιστή και την κατάσταση της
     άδειάς σας.
 (ε) Δεδομένα πληρωμής και τιμολόγησης, όταν παραγγέλνετε επί πληρωμή συνδρομή,
-    όπως περιγράφουν οι όροι παραγγελίας μας.
+    όπως περιγράφουν οι Όροι Παραγγελίας μας.
 
 Τι μένει στον υπολογιστή σας: τα Σχέδιά σας, τα λογότυπα, οι ρυθμίσεις σας, η
 υπογεγραμμένη άδειά σας και η συνεδρία σύνδεσής σας (αποθηκεύονται
@@ -744,4 +763,5 @@ Addendum της, όπως οι Τυποποιημένες Συμβατικές �
 
 ΕΠΙΚΟΙΝΩΝΙΑ
 
-Pnevma, email info@pnevmagifts.gr, ιστότοπος https://pnevmagifts.gr
+Πνευματικού Αναστασία, Κουντουριώτου 7, 18756 Κερατσίνι, ΑΦΜ 157448195, email
+info@pnevmagifts.gr, ιστότοπος https://pnevmagifts.gr

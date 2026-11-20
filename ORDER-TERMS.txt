@@ -1,0 +1,333 @@
+﻿PNEVMA PACKAGE MANAGER
+
+ORDER TERMS
+
+Version 1.0, effective 20 November 2026
+
+These Order Terms apply when you buy a paid License (a subscription) for
+Pnevma Package Manager from Anastasia Pnevmatikou (Πνευματικού Αναστασία),
+Kountouriotou 7, 18756 Keratsini, Greece, tax number (AFM) 157448195
+("Pnevma", "we", "us"). Contact: info@pnevmagifts.gr, https://pnevmagifts.gr.
+
+They complete the End User License Agreement (LICENSE.txt) and use its
+definitions. They are available in English and in Greek. If the two versions
+differ, the Greek version prevails, to the extent the law allows.
+
+1. WHAT YOU BUY
+
+(a) A subscription gives your Account a License to use the Software on one
+    computer for the period you pay for, for example one month or one year,
+    under the End User License Agreement.
+(b) The Software runs on Windows 10 (version 1809 or later) or Windows 11,
+    64-bit. It needs an internet connection to activate and to check your
+    License at least once every 7 days. Some features work with LightBurn,
+    which you obtain and license separately.
+(c) Before you buy, you can try the Software free of charge. The trial ends by
+    itself, with no charge and no obligation.
+
+2. HOW TO ORDER
+
+(a) Write to info@pnevmagifts.gr, or use "Contact us" in the Software, and
+    tell us which subscription you want. Include the e-mail address of your
+    Account and your computer code; "Contact us" adds the code for you.
+(b) We send you an offer by e-mail. It states the subscription, its period,
+    the total price including taxes, and how to pay. The offer is valid for
+    the period it states, or for 14 days if it states none.
+(c) The contract is made when you accept the offer, by paying or by confirming
+    it in writing, and we confirm your order by e-mail. Our confirmation
+    includes these Order Terms and the End User License Agreement, or links to
+    them.
+(d) The contract is made in Greek or in English, as you choose. We keep a copy
+    of your order and of our confirmation, and send it to you on request.
+
+3. PRICES AND PAYMENT
+
+(a) Prices are in euro and include value added tax (VAT) where it applies. The
+    price that applies is the one in the offer you accept.
+(b) You pay in advance for the whole period, by bank transfer to the account
+    stated in our offer, or by another method the offer states.
+(c) We issue a receipt or an invoice for every payment, as Greek tax law
+    requires. If you want an invoice for your business, give us its name,
+    address and tax number before you pay.
+(d) There are no other charges. We do not charge for activation, for moving
+    your License to a new computer within reason, or for support about the
+    Software.
+
+4. DELIVERY
+
+(a) When we receive your payment, we add the License to your Account, normally
+    within 2 working days, and tell you by e-mail. The Software unlocks the
+    next time it connects.
+(b) The Software is supplied by download from our release page,
+    https://github.com/pan7266/Pnevma-Package-Generator/releases. We do not
+    send physical media.
+(c) If we do not supply the License within 30 days of your payment, you may
+    cancel the order, and we refund what you paid without delay.
+
+5. DURATION, RENEWAL AND ENDING
+
+(a) A subscription runs for the period you paid for and then ends by itself.
+    It does not renew automatically, and we never charge you without a new
+    order.
+(b) Before it ends, we may remind you by e-mail and send you an offer for the
+    next period. To continue, accept it as section 2 describes.
+(c) You may end a subscription at any time by writing to us. Apart from your
+    rights under section 6 of these Order Terms, under section 8 of the End
+    User License Agreement and under the law, we do not refund the rest of the
+    period when you end a subscription early.
+(d) If we end your License because you seriously breached the End User License
+    Agreement (section 9), we do not refund the rest of the period, unless the
+    law requires it.
+(e) If we stop offering the Software or the license service during your
+    subscription, we tell you at least 30 days in advance and refund the
+    unused part of what you paid.
+
+6. RIGHT OF WITHDRAWAL FOR CONSUMERS
+
+(a) If you are a Consumer, you may withdraw from the contract within 14 days,
+    without giving any reason. The 14 days start on the day the contract is
+    made.
+(b) To withdraw, send us a clear statement, by e-mail to info@pnevmagifts.gr
+    or by post to the address above, before the 14 days end. You may use the
+    model form at the end of these Order Terms, but you do not have to.
+(c) If you withdraw, we refund all payments we received from you without undue
+    delay, and at the latest within 14 days of receiving your statement. We
+    use the same means of payment you used, unless you expressly agree to
+    another. The refund costs you nothing.
+(d) We start supplying the License before the 14 days end only if you
+    expressly ask us to, and confirm that you know you then lose your right of
+    withdrawal. We ask you for this in the offer or before activation, and we
+    confirm it in our order confirmation. Once we start supplying the License
+    after your request and confirmation, the right of withdrawal ends. If you
+    do not ask for this, your License starts when the 14 days have passed.
+(e) If the law treats your subscription as a service rather than as digital
+    content, and you withdraw after asking us to start, you pay an amount in
+    proportion to the days you used it.
+(f) Business customers have no right of withdrawal.
+
+7. LEGAL GUARANTEE AND COMPLAINTS
+
+(a) If the Software does not conform to the contract, you have the statutory
+    rights described in section 10 of the End User License Agreement. For a
+    subscription, we are responsible for its conformity for the whole period.
+(b) To report a problem or make a complaint, write to info@pnevmagifts.gr with
+    the e-mail address of your Account and a short description. We reply as
+    soon as we can, and within 30 days at the latest.
+(c) Consumers in Greece may also turn to the Hellenic Consumer Ombudsman
+    (www.synigoroskatanaloti.gr) for out-of-court resolution.
+
+8. PERSONAL DATA
+
+We use the details you give us for an order (your name, your contact details,
+your business details for an invoice, and the records of your payments) to
+perform the contract and to meet our tax and accounting obligations, as Part B
+of the End User License Agreement describes.
+
+9. CHANGES TO THESE ORDER TERMS
+
+We may change these Order Terms for future orders. An order is governed by the
+version in force when you accept the offer. Changes do not affect a period you
+have already paid for.
+
+10. LAW AND DISPUTES
+
+Section 13 of the End User License Agreement applies: Greek law, the courts of
+Greece and, if you are a Consumer, the protection of the mandatory laws of the
+country where you live.
+
+MODEL WITHDRAWAL FORM
+
+Complete and return this form only if you wish to withdraw from the contract.
+
+To: Anastasia Pnevmatikou (Pnevma), Kountouriotou 7, 18756 Keratsini, Greece,
+info@pnevmagifts.gr
+
+I hereby give notice that I withdraw from my contract for the following
+digital content: a subscription to Pnevma Package Manager.
+
+Ordered on: ...
+
+Name of the consumer: ...
+
+Address of the consumer: ...
+
+E-mail address of the Account: ...
+
+Signature (only if this form is sent on paper): ...
+
+Date: ...
+
+==============================================================================
+
+PNEVMA PACKAGE MANAGER
+
+ΟΡΟΙ ΠΑΡΑΓΓΕΛΙΑΣ
+
+Έκδοση 1.0, σε ισχύ από 20 Νοεμβρίου 2026
+
+Οι παρόντες Όροι Παραγγελίας ισχύουν όταν αγοράζετε επί πληρωμή Άδεια
+(συνδρομή) για το Pnevma Package Manager από την Πνευματικού Αναστασία,
+Κουντουριώτου 7, 18756 Κερατσίνι, ΑΦΜ 157448195 («Pnevma», «εμείς»).
+Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
+
+Συμπληρώνουν τη Σύμβαση Άδειας Χρήσης Τελικού Χρήστη (LICENSE.txt) και
+χρησιμοποιούν τους ορισμούς της. Διατίθενται στα Ελληνικά και στα Αγγλικά. Αν
+οι δύο εκδοχές διαφέρουν, υπερισχύει η ελληνική, στον βαθμό που το επιτρέπει ο
+νόμος.
+
+1. ΤΙ ΑΓΟΡΑΖΕΤΕ
+
+(α) Η συνδρομή δίνει στον Λογαριασμό σας Άδεια χρήσης του Λογισμικού σε έναν
+    υπολογιστή για την περίοδο που πληρώνετε, για παράδειγμα έναν μήνα ή ένα
+    έτος, σύμφωνα με τη Σύμβαση Άδειας Χρήσης Τελικού Χρήστη.
+(β) Το Λογισμικό λειτουργεί σε Windows 10 (έκδοση 1809 ή νεότερη) ή Windows
+    11, 64-bit. Χρειάζεται σύνδεση στο διαδίκτυο για την ενεργοποίηση και για
+    τον έλεγχο της Άδειάς σας τουλάχιστον μία φορά κάθε 7 ημέρες. Ορισμένες
+    λειτουργίες συνεργάζονται με το LightBurn, το οποίο αποκτάτε και
+    αδειοδοτείτε χωριστά.
+(γ) Πριν αγοράσετε, μπορείτε να δοκιμάσετε το Λογισμικό δωρεάν. Η δοκιμαστική
+    περίοδος λήγει από μόνη της, χωρίς χρέωση και χωρίς καμία υποχρέωση.
+
+2. ΠΩΣ ΠΑΡΑΓΓΕΛΝΕΤΕ
+
+(α) Γράψτε στο info@pnevmagifts.gr ή χρησιμοποιήστε την «Επικοινωνία» στο
+    Λογισμικό και πείτε μας ποια συνδρομή θέλετε. Αναφέρετε το email του
+    Λογαριασμού σας και τον κωδικό του υπολογιστή σας· η «Επικοινωνία»
+    προσθέτει τον κωδικό για εσάς.
+(β) Σας στέλνουμε προσφορά με email. Αναφέρει τη συνδρομή, τη διάρκειά της, τη
+    συνολική τιμή μαζί με τους φόρους και τον τρόπο πληρωμής. Η προσφορά
+    ισχύει για το διάστημα που αναφέρει ή, αν δεν αναφέρει, για 14 ημέρες.
+(γ) Η σύμβαση συνάπτεται όταν αποδέχεστε την προσφορά, πληρώνοντας ή
+    επιβεβαιώνοντάς την γραπτώς, και εμείς επιβεβαιώνουμε την παραγγελία σας
+    με email. Η επιβεβαίωσή μας περιλαμβάνει τους παρόντες Όρους Παραγγελίας
+    και τη Σύμβαση Άδειας Χρήσης Τελικού Χρήστη ή συνδέσμους προς αυτούς.
+(δ) Η σύμβαση συνάπτεται στα Ελληνικά ή στα Αγγλικά, όπως επιλέξετε. Κρατάμε
+    αντίγραφο της παραγγελίας σας και της επιβεβαίωσής μας και σας το
+    στέλνουμε αν το ζητήσετε.
+
+3. ΤΙΜΕΣ ΚΑΙ ΠΛΗΡΩΜΗ
+
+(α) Οι τιμές είναι σε ευρώ και περιλαμβάνουν τον φόρο προστιθέμενης αξίας
+    (ΦΠΑ) όπου εφαρμόζεται. Ισχύει η τιμή της προσφοράς που αποδέχεστε.
+(β) Πληρώνετε εκ των προτέρων για ολόκληρη την περίοδο, με τραπεζική μεταφορά
+    στον λογαριασμό που αναφέρει η προσφορά μας ή με άλλον τρόπο που αναφέρει
+    η προσφορά.
+(γ) Για κάθε πληρωμή εκδίδουμε απόδειξη ή τιμολόγιο, όπως ορίζει η ελληνική
+    φορολογική νομοθεσία. Αν θέλετε τιμολόγιο για την επιχείρησή σας, δώστε
+    μας την επωνυμία, τη διεύθυνση και τον ΑΦΜ της πριν πληρώσετε.
+(δ) Δεν υπάρχουν άλλες χρεώσεις. Δεν χρεώνουμε την ενεργοποίηση, τη μεταφορά
+    της Άδειάς σας σε νέο υπολογιστή εντός λογικών ορίων ούτε την υποστήριξη
+    για το Λογισμικό.
+
+4. ΠΑΡΑΔΟΣΗ
+
+(α) Μόλις λάβουμε την πληρωμή σας, προσθέτουμε την Άδεια στον Λογαριασμό σας,
+    συνήθως εντός 2 εργάσιμων ημερών, και σας ενημερώνουμε με email. Το
+    Λογισμικό ξεκλειδώνει την επόμενη φορά που θα συνδεθεί.
+(β) Το Λογισμικό παρέχεται με λήψη από τη σελίδα εκδόσεών μας,
+    https://github.com/pan7266/Pnevma-Package-Generator/releases. Δεν
+    αποστέλλουμε φυσικά μέσα.
+(γ) Αν δεν παράσχουμε την Άδεια εντός 30 ημερών από την πληρωμή σας, μπορείτε
+    να ακυρώσετε την παραγγελία και σας επιστρέφουμε χωρίς καθυστέρηση ό,τι
+    πληρώσατε.
+
+5. ΔΙΑΡΚΕΙΑ, ΑΝΑΝΕΩΣΗ ΚΑΙ ΛΗΞΗ
+
+(α) Η συνδρομή διαρκεί για την περίοδο που πληρώσατε και μετά λήγει από μόνη
+    της. Δεν ανανεώνεται αυτόματα και δεν σας χρεώνουμε ποτέ χωρίς νέα
+    παραγγελία.
+(β) Πριν από τη λήξη, μπορεί να σας το υπενθυμίσουμε με email και να σας
+    στείλουμε προσφορά για την επόμενη περίοδο. Για να συνεχίσετε, την
+    αποδέχεστε όπως περιγράφει το άρθρο 2.
+(γ) Μπορείτε να λύσετε μια συνδρομή οποτεδήποτε, γράφοντάς μας. Πέρα από τα
+    δικαιώματά σας κατά το άρθρο 6 των παρόντων Όρων, κατά το άρθρο 8 της
+    Σύμβασης Άδειας Χρήσης Τελικού Χρήστη και κατά τον νόμο, δεν επιστρέφουμε
+    το υπόλοιπο της περιόδου όταν λύετε μια συνδρομή πρόωρα.
+(δ) Αν λύσουμε την Άδειά σας επειδή παραβιάσατε σοβαρά τη Σύμβαση Άδειας
+    Χρήσης Τελικού Χρήστη (άρθρο 9), δεν επιστρέφουμε το υπόλοιπο της
+    περιόδου, εκτός αν το απαιτεί ο νόμος.
+(ε) Αν σταματήσουμε να διαθέτουμε το Λογισμικό ή την υπηρεσία αδειών κατά τη
+    διάρκεια της συνδρομής σας, σας ενημερώνουμε τουλάχιστον 30 ημέρες
+    νωρίτερα και σας επιστρέφουμε το μέρος που δεν χρησιμοποιήθηκε.
+
+6. ΔΙΚΑΙΩΜΑ ΥΠΑΝΑΧΩΡΗΣΗΣ ΓΙΑ ΚΑΤΑΝΑΛΩΤΕΣ
+
+(α) Αν είστε Καταναλωτής, μπορείτε να υπαναχωρήσετε από τη σύμβαση εντός 14
+    ημερών, χωρίς να αναφέρετε λόγο. Οι 14 ημέρες αρχίζουν την ημέρα σύναψης
+    της σύμβασης.
+(β) Για να υπαναχωρήσετε, στείλτε μας σαφή δήλωση, με email στο
+    info@pnevmagifts.gr ή ταχυδρομικά στην παραπάνω διεύθυνση, πριν περάσουν
+    οι 14 ημέρες. Μπορείτε να χρησιμοποιήσετε το υπόδειγμα εντύπου στο τέλος
+    των παρόντων Όρων, χωρίς να είστε υποχρεωμένοι.
+(γ) Αν υπαναχωρήσετε, σας επιστρέφουμε όλες τις πληρωμές που λάβαμε από εσάς
+    χωρίς αδικαιολόγητη καθυστέρηση και το αργότερο εντός 14 ημερών από τη
+    λήψη της δήλωσής σας. Χρησιμοποιούμε τον ίδιο τρόπο πληρωμής που
+    χρησιμοποιήσατε, εκτός αν συμφωνήσετε ρητά σε άλλον. Η επιστροφή δεν σας
+    επιβαρύνει με κανένα κόστος.
+(δ) Αρχίζουμε να παρέχουμε την Άδεια πριν περάσουν οι 14 ημέρες μόνο αν μας το
+    ζητήσετε ρητά και επιβεβαιώσετε ότι γνωρίζετε πως έτσι χάνετε το δικαίωμα
+    υπαναχώρησης. Σας το ζητάμε στην προσφορά ή πριν από την ενεργοποίηση και
+    το επιβεβαιώνουμε στην επιβεβαίωση παραγγελίας. Μόλις αρχίσουμε να
+    παρέχουμε την Άδεια μετά το αίτημα και την επιβεβαίωσή σας, το δικαίωμα
+    υπαναχώρησης παύει. Αν δεν το ζητήσετε, η Άδειά σας αρχίζει όταν περάσουν
+    οι 14 ημέρες.
+(ε) Αν ο νόμος αντιμετωπίζει τη συνδρομή σας ως υπηρεσία και όχι ως ψηφιακό
+    περιεχόμενο, και υπαναχωρήσετε αφού μας ζητήσατε να αρχίσουμε, πληρώνετε
+    ποσό ανάλογο με τις ημέρες που τη χρησιμοποιήσατε.
+(στ) Οι επαγγελματίες πελάτες δεν έχουν δικαίωμα υπαναχώρησης.
+
+7. ΝΟΜΙΜΗ ΕΓΓΥΗΣΗ ΚΑΙ ΠΑΡΑΠΟΝΑ
+
+(α) Αν το Λογισμικό δεν είναι σύμφωνο με τη σύμβαση, έχετε τα δικαιώματα που
+    ορίζει ο νόμος και περιγράφει το άρθρο 10 της Σύμβασης Άδειας Χρήσης
+    Τελικού Χρήστη. Για μια συνδρομή, ευθυνόμαστε για τη συμμόρφωσή του σε όλη
+    την περίοδο.
+(β) Για να αναφέρετε πρόβλημα ή να υποβάλετε παράπονο, γράψτε στο
+    info@pnevmagifts.gr με το email του Λογαριασμού σας και μια σύντομη
+    περιγραφή. Απαντάμε το συντομότερο δυνατό και το αργότερο εντός 30 ημερών.
+(γ) Οι Καταναλωτές στην Ελλάδα μπορούν επίσης να απευθυνθούν στον Συνήγορο του
+    Καταναλωτή (www.synigoroskatanaloti.gr) για εξωδικαστική επίλυση.
+
+8. ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ
+
+Χρησιμοποιούμε τα στοιχεία που μας δίνετε για μια παραγγελία (το ονοματεπώνυμό
+σας, τα στοιχεία επικοινωνίας σας, τα στοιχεία της επιχείρησής σας για το
+τιμολόγιο και τα αρχεία των πληρωμών σας) για την εκτέλεση της σύμβασης και
+για τις φορολογικές και λογιστικές μας υποχρεώσεις, όπως περιγράφει το Μέρος Β
+της Σύμβασης Άδειας Χρήσης Τελικού Χρήστη.
+
+9. ΑΛΛΑΓΕΣ ΣΤΟΥΣ ΟΡΟΥΣ ΠΑΡΑΓΓΕΛΙΑΣ
+
+Μπορούμε να αλλάζουμε τους παρόντες Όρους Παραγγελίας για μελλοντικές
+παραγγελίες. Κάθε παραγγελία διέπεται από την έκδοση που ισχύει όταν
+αποδέχεστε την προσφορά. Οι αλλαγές δεν επηρεάζουν περίοδο που έχετε ήδη
+πληρώσει.
+
+10. ΕΦΑΡΜΟΣΤΕΟ ΔΙΚΑΙΟ ΚΑΙ ΔΙΑΦΟΡΕΣ
+
+Ισχύει το άρθρο 13 της Σύμβασης Άδειας Χρήσης Τελικού Χρήστη: το ελληνικό
+δίκαιο, τα δικαστήρια της Ελλάδας και, αν είστε Καταναλωτής, η προστασία των
+αναγκαστικών διατάξεων της χώρας όπου ζείτε.
+
+ΥΠΟΔΕΙΓΜΑ ΕΝΤΥΠΟΥ ΥΠΑΝΑΧΩΡΗΣΗΣ
+
+Συμπληρώστε και επιστρέψτε το έντυπο μόνο αν θέλετε να υπαναχωρήσετε από τη
+σύμβαση.
+
+Προς: Πνευματικού Αναστασία (Pnevma), Κουντουριώτου 7, 18756 Κερατσίνι,
+info@pnevmagifts.gr
+
+Με την παρούσα δηλώνω ότι υπαναχωρώ από τη σύμβασή μου για το ακόλουθο ψηφιακό
+περιεχόμενο: συνδρομή στο Pnevma Package Manager.
+
+Ημερομηνία παραγγελίας: ...
+
+Ονοματεπώνυμο καταναλωτή: ...
+
+Διεύθυνση καταναλωτή: ...
+
+Email του Λογαριασμού: ...
+
+Υπογραφή (μόνο αν το έντυπο αποστέλλεται σε χαρτί): ...
+
+Ημερομηνία: ...

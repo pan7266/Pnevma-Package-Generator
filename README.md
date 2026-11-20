@@ -6,22 +6,29 @@ Design box-with-lid packaging and send it straight to LightBurn. The pieces arri
 own layers. Put a logo or a repeating pattern on the lid, and see how many boxes fit on the board you buy.
 
 - Windows 10 (version 1809) or Windows 11, 64-bit.
-- Closed source. This repository holds only the downloads, the license agreement and the notices.
+- Closed source. This repository holds only the downloads, the license agreement, the order terms and the notices.
 
 ## Download
 
 **[Latest release](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**
 
-Version 0.1.1 adds the End User License Agreement and privacy notice, shown once at the first start.
+Version 0.1.2 adds the order terms, names the licensor in the agreement, and comes as a single `.exe` as well as a zip.
 
 ## Install
 
-1. Download `Pnevma-Package-Manager-0.1.1-win-x64.zip` from the release.
-2. Right-click the zip, choose **Extract All…**, and pick a folder you keep, such as `Documents`. Don't run the app
-   from inside the zip.
-3. Open the `Pnevma Package Manager` folder and run `Pnevma.PackageGenerator.exe`.
-4. The app is not code-signed yet, so Windows may say **"Windows protected your PC"**. Click **More info**, then
+**The single exe (simplest)**
+
+1. Download `Pnevma-Package-Manager-0.1.2-win-x64.exe` from the release.
+2. Move it to a folder you keep, such as `Documents`, and run it. The first start takes a little longer, because it
+   unpacks itself.
+3. The app is not code-signed yet, so Windows may say **"Windows protected your PC"**. Click **More info**, then
    **Run anyway**.
+
+**Or the zip**
+
+1. Download `Pnevma-Package-Manager-0.1.2-win-x64.zip`, right-click it, choose **Extract All…**, and pick a folder you
+   keep. Don't run the app from inside the zip.
+2. Open the `Pnevma Package Manager` folder and run `Pnevma.PackageGenerator.exe`.
 
 There is nothing else to install: the app brings its own .NET and Windows App SDK.
 
@@ -39,20 +46,26 @@ There is nothing else to install: the app brings its own .NET and Windows App SD
 Good to know:
 - A licence works on **one computer**. To move it to a new computer, write to us and we free the seat.
 - The app keeps working **offline for up to 7 days** after it last reached the licence server.
-- Your settings and logos are in `%LOCALAPPDATA%\Pnevma\PackageGenerator`. To remove the app, delete its folder, and
-  that one too if you want your settings gone.
+- Your settings and logos are in `%LOCALAPPDATA%\Pnevma\PackageGenerator`. To remove the app, delete the exe (or the
+  extracted folder), and that folder too if you want your settings gone.
+
+## Buying a licence
+
+Paid licences are sold under the [Order Terms](ORDER-TERMS.txt), in English and Greek: how to order, prices and
+payment, delivery, no automatic renewal, and the 14-day right of withdrawal for consumers, with a model withdrawal
+form. In the app, **Settings → License and account → Order terms** opens them too.
 
 ## Check the download (optional)
 
-Compare the zip's fingerprint with `SHA256SUMS.txt` in the release. In PowerShell, in the folder with the zip:
+Compare the file's fingerprint with `SHA256SUMS.txt` in the release. In PowerShell, in the folder with the download:
 
 ```powershell
-Get-FileHash .\Pnevma-Package-Manager-0.1.1-win-x64.zip -Algorithm SHA256
+Get-FileHash .\Pnevma-Package-Manager-0.1.2-win-x64.exe -Algorithm SHA256
 ```
 
 ## Support
 
-info@pnevmagifts.gr
+Anastasia Pnevmatikou (Pnevma), Kountouriotou 7, 18756 Keratsini, Greece. info@pnevmagifts.gr
 
 ## License agreement and privacy
 
@@ -69,8 +82,10 @@ see [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
 Το **Pnevma Package Manager** σχεδιάζει κουτιά με καπάκι και τα στέλνει κατευθείαν στο LightBurn, σε πραγματικό
 μέγεθος και σε έτοιμα layers.
 
-1. Κατεβάστε το zip από την **[τελευταία έκδοση](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**.
-   Κάντε δεξί κλικ → **Εξαγωγή όλων…** και ανοίξτε το `Pnevma.PackageGenerator.exe` από τον φάκελο.
+1. Κατεβάστε το `Pnevma-Package-Manager-0.1.2-win-x64.exe` από την
+   **[τελευταία έκδοση](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**, μετακινήστε το σε έναν
+   φάκελο που κρατάτε και ανοίξτε το. Η πρώτη εκκίνηση αργεί λίγο. (Υπάρχει και zip: δεξί κλικ → **Εξαγωγή όλων…** και
+   ανοίξτε το `Pnevma.PackageGenerator.exe` από τον φάκελο.)
 2. Αν τα Windows δείξουν «Τα Windows προστάτευσαν τον υπολογιστή σας», πατήστε **Περισσότερες πληροφορίες** και μετά
    **Εκτέλεση οπωσδήποτε**.
 3. Η πρώτη οθόνη είναι η Σύμβαση Άδειας Χρήσης Τελικού Χρήστη· το **Διαβάστε στα Ελληνικά** τη δείχνει στα Ελληνικά.
@@ -81,4 +96,5 @@ see [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
 6. Όταν σας ενημερώσουμε, πατήστε **Try again**. Μετά, από **Settings → Language / Γλώσσα** επιλέξτε Ελληνικά.
 
 Μία άδεια = ένας υπολογιστής. Οι όροι χρήσης και η ενημέρωση για τα προσωπικά δεδομένα βρίσκονται στο
-[LICENSE.txt](LICENSE.txt). Επικοινωνία: info@pnevmagifts.gr
+[LICENSE.txt](LICENSE.txt) και οι όροι αγοράς στο [ORDER-TERMS.txt](ORDER-TERMS.txt). Πνευματικού Αναστασία (Pnevma),
+Κουντουριώτου 7, 18756 Κερατσίνι. Επικοινωνία: info@pnevmagifts.gr
