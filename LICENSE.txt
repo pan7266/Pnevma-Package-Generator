@@ -1,50 +1,747 @@
-Pnevma Package Manager - End User Licence Agreement
+﻿PNEVMA PACKAGE MANAGER
 
-Copyright (c) 2026 Pnevma. All rights reserved.
+END USER LICENSE AGREEMENT AND PRIVACY NOTICE
 
-This is proprietary software. It is licensed, not sold. By downloading, installing
-or using it you agree to the terms below. If you do not agree, do not use it.
+Version 1.0, effective 20 November 2026
 
-1. Licence
-   The owner grants you a personal, non-exclusive, non-transferable licence to run
-   one copy of the software on one computer, for the period of a valid trial or
-   subscription that the owner grants to your Pnevma account, or of a key the owner
-   issues to you. Each licence works on one computer at a time. Without a valid
-   licence the software will not run.
+This End User License Agreement ("Agreement") is a contract between you and
+Pnevma ("Pnevma", "we", "us"), the owner of Pnevma Package Manager. Contact:
+info@pnevmagifts.gr, https://pnevmagifts.gr.
 
-2. Trial
-   A trial works for a limited number of days on one computer. When it ends, the
-   software locks. To continue, contact info@pnevmagifts.gr.
+Please read it carefully. Part B explains how we handle your personal data. By
+selecting "Accept and continue" in the software, or by installing or using it,
+you agree to this Agreement. If you do not agree, select "Decline" and do not
+install or use the software.
 
-3. What you may not do
-   You may NOT, in whole or in part:
-   a. copy, publish, share, sell, rent, lend or redistribute the software, your
-      account access or a key;
-   b. reverse engineer, decompile, disassemble or otherwise try to obtain or recover
-      its source code, except where that right cannot be excluded by law;
-   c. remove, bypass, disable or tamper with the licence check, the key, or any
-      protection, or help anyone else do so;
-   d. use the software, its code, its interface, its output or any part of it to
-      train, fine-tune, test or build any machine-learning or AI model or dataset,
-      or to create a competing or derivative product;
-   e. use it beyond the scope or time of the licence or key issued to you.
+This Agreement is available in English and in Greek. Both versions are
+intended to have the same meaning. If they differ, the Greek version prevails,
+to the extent the law allows.
 
-4. Ownership
-   The software and all intellectual property in it remain the owner's. This licence
-   gives you no ownership of it. Boxes and files YOU design and export with it are
-   yours; the software itself is not.
+PART A. LICENSE TERMS
 
-5. No warranty
-   The software is provided "as is", without warranty of any kind. You use it at your
-   own risk. To the maximum extent allowed by law, the owner is not liable for any
-   loss or damage arising from its use, including spoiled material or lost work.
+1. DEFINITIONS
 
-6. Ending
-   This licence ends automatically if you break any term, or when your licence or key
-   ends. On ending, stop using the software and delete your copy.
+(a) "Software" means Pnevma Package Manager, its program files, the updates we
+    provide for it, its documentation, and the Pnevma license service it
+    connects to.
+(b) "Account" means your Pnevma account, which you create and sign in to on
+    the Pnevma Tools sign-in page.
+(c) "License" means the right to use the Software that we grant to your
+    Account, as a trial or a subscription, or with a key we issue to you.
+(d) "Your Designs" means the boxes, templates, files and projects you create
+    or export with the Software, and the logos and artwork you add to it.
+(e) "Consumer" means a person who uses the Software for purposes outside their
+    trade, business, craft or profession.
 
-7. Law
-   This agreement is governed by the law of Greece, and the courts of Greece have
-   jurisdiction.
+2. LICENSE GRANT
 
-Contact: info@pnevmagifts.gr
+Subject to this Agreement and to payment of any fees that apply, we grant you
+a personal, non-exclusive, non-transferable and revocable license to install
+and use the Software on one computer at a time, for the period of your
+License. You may use it for personal purposes and for the purposes of your own
+business, including making products that you sell.
+
+One License covers one computer. If you replace your computer, contact us and
+we will move your License to the new one, within reason.
+
+You may keep one copy of the installation files as a backup.
+
+If you accept this Agreement on behalf of a company or other organisation, you
+confirm that you are authorised to do so. "You" then means that organisation,
+and it is responsible for everyone who uses the Software under its Licenses.
+
+The Software is licensed, not sold. We and our licensors keep all rights that
+are not expressly granted to you.
+
+3. ACCOUNT, ACTIVATION AND LICENSE CHECKS
+
+(a) You need an Account to use the Software. Sign-in is provided on our behalf
+    by Microsoft Entra External ID; the Software never sees your password.
+    Keep your sign-in details secret. You are responsible for activity under
+    your Account.
+(b) When you first activate a License, it is bound to a computer code. The
+    computer code is calculated from your computer's hardware identifier with
+    a one-way function. It identifies the computer for licensing, but does not
+    contain the identifier itself.
+(c) The Software needs an internet connection to activate, and to check your
+    License at least once every 7 days. If it cannot check for 7 days, it
+    locks until it can connect again.
+(d) If your License ends, is revoked or belongs to another computer, the
+    Software locks. Your Designs stay on your computer and remain yours.
+
+4. TRIALS, SUBSCRIPTIONS AND PAYMENT
+
+(a) A trial lets you use the Software free of charge for a limited number of
+    days. It ends automatically, with no charge and no obligation. We may
+    limit trials to one per person and per computer.
+(b) The price, billing period, renewal and payment of a subscription are
+    agreed when you order it, for example in our offer, order confirmation or
+    invoice. Those order terms form part of this Agreement, and they prevail
+    over it on price and payment.
+(c) If you are a Consumer, you may have a right to withdraw from a paid order
+    within 14 days. We explain that right when you order, including when it
+    ends because, at your express request, we start supplying the Software
+    within that period.
+
+5. WHAT YOU MAY NOT DO
+
+Except as this Agreement expressly allows, or as mandatory law permits despite
+this section, you must not:
+
+(a) copy the Software, except to install it under your License and to keep one
+    backup copy;
+(b) sell, rent, lease, lend, share, publish, distribute or sublicense the
+    Software, or make it available to others, including over a network or as a
+    service;
+(c) share your Account, sign-in, License or key with others, or use one
+    License on more than one computer at a time;
+(d) reverse engineer, decompile or disassemble the Software, or try to obtain
+    its source code, except where the law allows it, for example for
+    interoperability under Article 6 of Directive 2009/24/EC and the Greek law
+    that implements it (Law 2121/1993);
+(e) modify, translate or adapt the Software, or create derivative works of it;
+(f) remove, bypass, disable or interfere with the license checks, activation,
+    keys, computer code or any other protection, or help anyone else to do so;
+(g) remove or change any copyright, trademark or other notice in the Software,
+    including those of Microsoft and other third parties;
+(h) use the Software, its code, its interface or its documentation to train,
+    fine-tune, test or build any machine-learning or artificial-intelligence
+    model or dataset, or to build a product that competes with the Software;
+(i) use the Software unlawfully, to infringe anyone's rights, or in breach of
+    export control or sanctions laws.
+
+6. YOUR DESIGNS
+
+(a) Your Designs belong to you. We claim no rights in them.
+(b) The Software keeps Your Designs, your logos and your settings on your
+    computer. It does not send them to us.
+(c) You are responsible for having the right to use the logos, artwork and
+    trademarks you add to the Software, and for keeping backups of your work.
+
+7. THIRD-PARTY SOFTWARE AND SERVICES
+
+(a) The Software includes components from Microsoft and other third parties,
+    such as the .NET runtime, the Windows App SDK, Microsoft Edge WebView2 and
+    the Microsoft Authentication Library. They are listed, with their licenses
+    and notices, in THIRD-PARTY-NOTICES.txt and in the Legal folder installed
+    with the Software. Where a third-party license gives you rights for its
+    component, nothing in this Agreement limits those rights.
+(b) The Microsoft components are licensed to you under this Agreement.
+    Microsoft and our other suppliers are not parties to this Agreement, give
+    you no warranty and, to the extent the law allows, have no liability to
+    you. The restrictions in section 5 also protect their components.
+(c) The Software can work with LightBurn, a product of LightBurn Software,
+    LLC, and with Pnevma Art Library. LightBurn is not part of the Software,
+    and its own license applies to it.
+(d) Microsoft, Windows, Google, Apple, Facebook and LightBurn are trademarks
+    of their owners. They are used only to name those products and services,
+    and their owners do not endorse the Software.
+
+8. UPDATES AND CHANGES
+
+(a) We may provide updates that fix problems, keep the Software secure or
+    working with the license service, or add or change features. Some updates
+    may be required to keep using the license service.
+(b) If you are a Consumer, we provide the updates needed to keep the Software
+    in conformity with this Agreement for the period required by law. If we
+    change the Software in a way that goes beyond keeping it in conformity, we
+    do so only as the law allows, and we tell you in advance when a change
+    will negatively affect your use of it more than slightly. In that case you
+    may end your subscription free of charge within 30 days of the change.
+(c) We may update this Agreement, for example when the Software, the law or
+    our services change. The Software shows you the new version and asks you
+    to accept it. If you do not accept it, you may stop using the Software
+    and, if you have a paid subscription, end it; we then refund the unused
+    part of any fee you paid in advance.
+
+9. TERM AND TERMINATION
+
+(a) This Agreement starts when you accept it and continues while you hold a
+    License.
+(b) You may stop using the Software at any time. Ending a paid subscription is
+    governed by its order terms.
+(c) We may suspend or end your License if you materially breach this
+    Agreement. Unless the breach is serious (for example, piracy or bypassing
+    the license checks) or cannot be put right, we first tell you about it and
+    give you a reasonable time to put it right.
+(d) When this Agreement or your License ends, you must stop using the Software
+    and delete it. Sections 5 to 7 and 10 to 14 continue to apply after the
+    end, as far as they are relevant.
+
+10. YOUR STATUTORY RIGHTS AND OUR WARRANTY
+
+(a) If you are a Consumer, you have statutory rights when digital content does
+    not conform to the contract, including under Directive (EU) 2019/770 and
+    the Greek law that implements it (Law 4967/2022). These rights include
+    having the Software brought into conformity, a price reduction or ending
+    the contract. Nothing in this Agreement limits those rights.
+(b) Apart from the rights in (a) and any other rights that cannot be excluded
+    by law, the Software is provided "as is" and "as available". We do not
+    promise that it is free of errors, that it will run without interruption,
+    or that its results will suit your materials, machines or purposes.
+(c) The Software produces cutting and engraving plans. Always check a design,
+    and make a test cut, before you use it in production. Follow your laser
+    cutter's safety instructions. You are responsible for how you operate your
+    machines.
+
+11. LIABILITY
+
+(a) Nothing in this Agreement excludes or limits liability for intent or gross
+    negligence, for death or personal injury, for fraud, or any other
+    liability that cannot be excluded or limited by law, including under
+    Article 332 of the Greek Civil Code. Nothing in this Agreement limits the
+    statutory rights of Consumers.
+(b) If you are a Consumer, we are liable to you as the law provides.
+(c) If you use the Software for business purposes, then, subject to (a): we
+    are not liable for indirect or consequential loss, lost profit, lost data,
+    wasted material or machine time, or business interruption; and our total
+    liability for all claims relating to the Software is limited to the fees
+    you paid us for the License concerned in the 12 months before the event
+    that caused the claim.
+
+12. PERSONAL DATA
+
+We handle your personal data as Part B describes.
+
+13. GOVERNING LAW AND DISPUTES
+
+(a) This Agreement is governed by Greek law, excluding its conflict-of-law
+    rules and the United Nations Convention on Contracts for the International
+    Sale of Goods.
+(b) The competent courts of Greece have jurisdiction over disputes arising
+    from this Agreement.
+(c) If you are a Consumer living in another country, you keep the protection
+    of the mandatory laws of that country, and you may also bring proceedings
+    in its courts.
+(d) Please contact us first, so that we can try to solve a problem together.
+    Consumers in Greece may also turn to the Hellenic Consumer Ombudsman
+    (www.synigoroskatanaloti.gr) for out-of-court resolution.
+
+14. GENERAL
+
+(a) This Agreement, together with the order terms of your License, is the
+    entire agreement between you and us about the Software.
+(b) If any part of this Agreement is found invalid or unenforceable, the rest
+    remains in force, and the invalid part is replaced by a valid one that
+    comes as close as possible to its purpose.
+(c) If we do not enforce a right at once, we do not give it up.
+(d) You may not transfer this Agreement or your License without our written
+    consent. We may transfer this Agreement to a successor of our business,
+    provided that your rights under it are not reduced.
+(e) We may send you notices about the Software and your License to the e-mail
+    address of your Account, or show them in the Software.
+(f) You can keep a copy of this Agreement: it is installed with the Software
+    as LICENSE.txt and in the Legal folder, and you can open it at any time in
+    Settings.
+
+PART B. PRIVACY NOTICE
+
+This notice explains how Pnevma processes personal data in connection with the
+Software, as the EU General Data Protection Regulation (Regulation (EU)
+2016/679, "GDPR") requires.
+
+B1. WHO IS RESPONSIBLE
+
+Pnevma is the controller of the personal data described here. Contact:
+info@pnevmagifts.gr.
+
+B2. WHAT DATA WE PROCESS
+
+(a) Account data: your e-mail address, the name you give (if any), and the
+    unique account identifier assigned by the sign-in service. Your password
+    is handled on our behalf by Microsoft's sign-in service; we never see it.
+(b) License data: your computer code (see section 3(b)); the products, types,
+    plans, status and dates of your Licenses, such as activation, latest check
+    and expiry; the version of the Software that checked in last; how many
+    times a License was moved to another computer; and the notes we keep about
+    your order.
+(c) Technical data: when the Software contacts the license service, our
+    hosting provider records the time, the result and network information such
+    as your IP address, for security, for troubleshooting and to keep the
+    service running.
+(d) Support data: the messages you send us and the details you choose to
+    include, such as your computer code and license status.
+(e) Payment and invoicing data, when you order a paid subscription, as our
+    order terms describe.
+
+What stays on your computer: Your Designs, your logos, your settings, your
+signed license and your sign-in session (stored encrypted for your Windows
+user account). The Software does not send them to us.
+
+What we do not do: we do not use your data for advertising, we do not sell it,
+we do not track how you use the features of the Software, and we do not use
+your data to train artificial-intelligence models.
+
+B3. WHY WE PROCESS IT, AND ON WHAT LEGAL BASIS
+
+(a) To provide your Account and License, to check it and to keep it to one
+    computer: this is necessary to perform our contract with you (Article
+    6(1)(b) GDPR).
+(b) To protect the Software and the license service against misuse and
+    attacks, and to fix problems: our legitimate interest in a secure service
+    that works (Article 6(1)(f) GDPR).
+(c) To answer your messages: to perform our contract with you, or our
+    legitimate interest in helping you.
+(d) To keep the invoices and other records that tax and accounting laws
+    require: our legal obligations (Article 6(1)(c) GDPR).
+
+The account and license data are needed to use the Software. Without them, we
+cannot activate a License.
+
+The license service decides automatically whether a License is valid on a
+computer, by applying the License terms. If you think a decision is wrong,
+contact us and a person will review it.
+
+B4. WHO RECEIVES IT
+
+(a) Microsoft Ireland Operations Limited and its affiliates, which host the
+    license service (Microsoft Azure), provide the sign-in service (Microsoft
+    Entra External ID) and record the technical data (Azure Application
+    Insights). They act as our processors, under Microsoft's Data Protection
+    Addendum.
+(b) The providers of our e-mail, accounting and payment services, for the data
+    they need.
+(c) Authorities, when the law requires it.
+
+We do not sell or rent personal data.
+
+B5. WHERE IT IS STORED
+
+The license service and its data are hosted in Microsoft's North Europe region
+(Ireland), in the European Union. Microsoft may process some data outside the
+European Economic Area, for example for support or security, under the
+safeguards of its Data Protection Addendum, such as the EU Standard
+Contractual Clauses and the EU-US Data Privacy Framework.
+
+B6. HOW LONG WE KEEP IT
+
+(a) Account and license data: while you have an Account or a License, and for
+    up to 2 years after your last License ends, to answer questions and to
+    establish or defend legal claims.
+(b) Technical data: up to 90 days.
+(c) Support messages: up to 2 years after the matter is closed.
+(d) Invoices and accounting records: as long as tax and accounting laws
+    require.
+
+You can ask us to delete your Account sooner (see B7).
+
+B7. YOUR RIGHTS
+
+You have the right to access your personal data, to have it corrected or
+erased, to restrict its processing, to receive it in a portable format, and to
+object to processing based on our legitimate interests. To use these rights,
+or to have your Account and Licenses deleted, write to info@pnevmagifts.gr. We
+may first need to confirm your identity. We answer within one month.
+
+You also have the right to lodge a complaint with a data protection
+supervisory authority: in Greece, the Hellenic Data Protection Authority
+(www.dpa.gr), or the authority of the country where you live or work.
+
+B8. CHILDREN
+
+The Software is not intended for children. Do not create an Account if you are
+under 16 years old.
+
+B9. CHANGES
+
+If we change this notice, we show you the new version in the Software, as
+section 8(c) describes.
+
+CONTACT
+
+Pnevma, e-mail info@pnevmagifts.gr, web https://pnevmagifts.gr
+
+==============================================================================
+
+PNEVMA PACKAGE MANAGER
+
+ΣΥΜΒΑΣΗ ΑΔΕΙΑΣ ΧΡΗΣΗΣ ΤΕΛΙΚΟΥ ΧΡΗΣΤΗ ΚΑΙ ΕΝΗΜΕΡΩΣΗ ΓΙΑ ΤΑ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ
+
+Έκδοση 1.0, σε ισχύ από 20 Νοεμβρίου 2026
+
+Η παρούσα Σύμβαση Άδειας Χρήσης Τελικού Χρήστη («Σύμβαση») συνάπτεται μεταξύ
+εσάς και της Pnevma («Pnevma», «εμείς»), δικαιούχου του Pnevma Package
+Manager. Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
+
+Παρακαλούμε διαβάστε την προσεκτικά. Το Μέρος Β εξηγεί πώς χειριζόμαστε τα
+προσωπικά σας δεδομένα. Επιλέγοντας «Αποδοχή και συνέχεια» στο λογισμικό, ή
+εγκαθιστώντας ή χρησιμοποιώντας το, αποδέχεστε την παρούσα Σύμβαση. Αν δεν
+συμφωνείτε, επιλέξτε «Απόρριψη» και μην εγκαταστήσετε ούτε χρησιμοποιήσετε το
+λογισμικό.
+
+Η Σύμβαση διατίθεται στα Αγγλικά και στα Ελληνικά. Οι δύο εκδοχές έχουν σκοπό
+το ίδιο περιεχόμενο. Αν διαφέρουν, υπερισχύει η ελληνική, στον βαθμό που το
+επιτρέπει ο νόμος.
+
+ΜΕΡΟΣ Α. ΟΡΟΙ ΑΔΕΙΑΣ ΧΡΗΣΗΣ
+
+1. ΟΡΙΣΜΟΙ
+
+(α) «Λογισμικό»: το Pnevma Package Manager, τα αρχεία του προγράμματος, οι
+    ενημερώσεις που παρέχουμε γι' αυτό, η τεκμηρίωσή του και η υπηρεσία αδειών
+    της Pnevma με την οποία συνδέεται.
+(β) «Λογαριασμός»: ο λογαριασμός σας Pnevma, τον οποίο δημιουργείτε και στον
+    οποίο συνδέεστε στη σελίδα σύνδεσης Pnevma Tools.
+(γ) «Άδεια»: το δικαίωμα χρήσης του Λογισμικού που παραχωρούμε στον Λογαριασμό
+    σας, ως δοκιμή ή συνδρομή, ή με κλειδί που σας εκδίδουμε.
+(δ) «Τα Σχέδιά σας»: τα κουτιά, τα πρότυπα, τα αρχεία και τα έργα που
+    δημιουργείτε ή εξάγετε με το Λογισμικό, καθώς και τα λογότυπα και τα
+    γραφικά που προσθέτετε σε αυτό.
+(ε) «Καταναλωτής»: το πρόσωπο που χρησιμοποιεί το Λογισμικό για σκοπούς εκτός
+    της εμπορικής, επιχειρηματικής, βιοτεχνικής ή επαγγελματικής του
+    δραστηριότητας.
+
+2. ΠΑΡΑΧΩΡΗΣΗ ΑΔΕΙΑΣ
+
+Υπό την επιφύλαξη της παρούσας Σύμβασης και της καταβολής των τελών που τυχόν
+ισχύουν, σας παραχωρούμε προσωπική, μη αποκλειστική, μη μεταβιβάσιμη και
+ανακλητή άδεια να εγκαταστήσετε και να χρησιμοποιείτε το Λογισμικό σε έναν
+υπολογιστή κάθε φορά, για όσο διαρκεί η Άδειά σας. Μπορείτε να το
+χρησιμοποιείτε για προσωπικούς σκοπούς και για τους σκοπούς της δικής σας
+επιχείρησης, μεταξύ άλλων για την κατασκευή προϊόντων που πωλείτε.
+
+Μία Άδεια καλύπτει έναν υπολογιστή. Αν αντικαταστήσετε τον υπολογιστή σας,
+επικοινωνήστε μαζί μας και θα μεταφέρουμε την Άδειά σας στον νέο, εντός
+εύλογων ορίων.
+
+Μπορείτε να κρατήσετε ένα αντίγραφο ασφαλείας των αρχείων εγκατάστασης.
+
+Αν αποδέχεστε την παρούσα Σύμβαση για λογαριασμό εταιρείας ή άλλου οργανισμού,
+δηλώνετε ότι έχετε την εξουσία να το πράξετε. Ως «εσείς» νοείται τότε ο
+οργανισμός αυτός, ο οποίος ευθύνεται για όποιον χρησιμοποιεί το Λογισμικό με
+τις Άδειές του.
+
+Το Λογισμικό παραχωρείται με άδεια χρήσης και δεν πωλείται. Εμείς και οι
+δικαιοπάροχοί μας διατηρούμε κάθε δικαίωμα που δεν σας παραχωρείται ρητά.
+
+3. ΛΟΓΑΡΙΑΣΜΟΣ, ΕΝΕΡΓΟΠΟΙΗΣΗ ΚΑΙ ΕΛΕΓΧΟΙ ΑΔΕΙΑΣ
+
+(α) Για να χρησιμοποιήσετε το Λογισμικό χρειάζεστε Λογαριασμό. Η σύνδεση
+    παρέχεται για λογαριασμό μας από το Microsoft Entra External ID· το
+    Λογισμικό δεν βλέπει ποτέ τον κωδικό πρόσβασής σας. Κρατήστε μυστικά τα
+    στοιχεία σύνδεσής σας. Ευθύνεστε για τη δραστηριότητα στον Λογαριασμό σας.
+(β) Με την πρώτη ενεργοποίηση, η Άδεια συνδέεται με έναν κωδικό υπολογιστή. Ο
+    κωδικός υπολογιστή υπολογίζεται από το αναγνωριστικό υλικού του υπολογιστή
+    σας με μονόδρομη συνάρτηση. Ταυτοποιεί τον υπολογιστή για τους σκοπούς της
+    άδειας, αλλά δεν περιέχει το ίδιο το αναγνωριστικό.
+(γ) Το Λογισμικό χρειάζεται σύνδεση στο διαδίκτυο για την ενεργοποίηση και για
+    να ελέγχει την Άδειά σας τουλάχιστον μία φορά κάθε 7 ημέρες. Αν δεν
+    μπορέσει να κάνει έλεγχο για 7 ημέρες, κλειδώνει μέχρι να συνδεθεί ξανά.
+(δ) Αν η Άδειά σας λήξει, ανακληθεί ή ανήκει σε άλλον υπολογιστή, το Λογισμικό
+    κλειδώνει. Τα Σχέδιά σας μένουν στον υπολογιστή σας και παραμένουν δικά
+    σας.
+
+4. ΔΟΚΙΜΕΣ, ΣΥΝΔΡΟΜΕΣ ΚΑΙ ΠΛΗΡΩΜΗ
+
+(α) Η δοκιμή σάς επιτρέπει να χρησιμοποιείτε το Λογισμικό δωρεάν για
+    περιορισμένο αριθμό ημερών. Λήγει αυτόματα, χωρίς χρέωση και χωρίς καμία
+    δέσμευση. Μπορούμε να περιορίσουμε τις δοκιμές σε μία ανά πρόσωπο και ανά
+    υπολογιστή.
+(β) Η τιμή, η περίοδος χρέωσης, η ανανέωση και η πληρωμή μιας συνδρομής
+    συμφωνούνται κατά την παραγγελία της, για παράδειγμα στην προσφορά, στην
+    επιβεβαίωση παραγγελίας ή στο τιμολόγιό μας. Οι όροι αυτοί της παραγγελίας
+    αποτελούν μέρος της παρούσας Σύμβασης και υπερισχύουν αυτής ως προς την
+    τιμή και την πληρωμή.
+(γ) Αν είστε Καταναλωτής, μπορεί να έχετε δικαίωμα υπαναχώρησης από επί
+    πληρωμή παραγγελία εντός 14 ημερών. Σας ενημερώνουμε για το δικαίωμα αυτό
+    κατά την παραγγελία, καθώς και για το πότε παύει να ισχύει επειδή, κατόπιν
+    ρητού αιτήματός σας, αρχίζουμε να παρέχουμε το Λογισμικό μέσα στην
+    προθεσμία αυτή.
+
+5. ΤΙ ΔΕΝ ΕΠΙΤΡΕΠΕΤΑΙ
+
+Εκτός αν το επιτρέπει ρητά η παρούσα Σύμβαση ή αναγκαστικός κανόνας δικαίου
+παρά το παρόν άρθρο, δεν επιτρέπεται:
+
+(α) να αντιγράφετε το Λογισμικό, εκτός από την εγκατάστασή του σύμφωνα με την
+    Άδειά σας και τη διατήρηση ενός αντιγράφου ασφαλείας·
+(β) να πωλείτε, να εκμισθώνετε, να δανείζετε, να κοινοποιείτε, να δημοσιεύετε,
+    να διανέμετε ή να παραχωρείτε υπο-άδεια του Λογισμικού, ή να το διαθέτετε
+    σε άλλους, μεταξύ άλλων μέσω δικτύου ή ως υπηρεσία·
+(γ) να μοιράζεστε με άλλους τον Λογαριασμό, τα στοιχεία σύνδεσης, την Άδεια ή
+    το κλειδί σας, ή να χρησιμοποιείτε μία Άδεια σε περισσότερους από έναν
+    υπολογιστές ταυτόχρονα·
+(δ) να αναλύετε αντίστροφα (reverse engineering), να αποσυμπιλείτε ή να
+    αποσυναρμολογείτε το Λογισμικό, ή να επιχειρείτε να αποκτήσετε τον πηγαίο
+    κώδικά του, εκτός αν το επιτρέπει ο νόμος, για παράδειγμα για τη
+    διαλειτουργικότητα κατά το άρθρο 6 της Οδηγίας 2009/24/ΕΚ και τον ελληνικό
+    νόμο που την ενσωματώνει (ν. 2121/1993)·
+(ε) να τροποποιείτε, να μεταφράζετε ή να προσαρμόζετε το Λογισμικό, ή να
+    δημιουργείτε παράγωγα έργα του·
+(στ) να αφαιρείτε, να παρακάμπτετε, να απενεργοποιείτε ή να παρεμβαίνετε στους
+     ελέγχους άδειας, στην ενεργοποίηση, στα κλειδιά, στον κωδικό υπολογιστή ή
+     σε οποιοδήποτε άλλο μέτρο προστασίας, ή να βοηθάτε άλλον να το κάνει·
+(ζ) να αφαιρείτε ή να αλλάζετε σημειώσεις πνευματικής ιδιοκτησίας, σημάτων ή
+    άλλες σημειώσεις του Λογισμικού, μεταξύ άλλων εκείνες της Microsoft και
+    άλλων τρίτων·
+(η) να χρησιμοποιείτε το Λογισμικό, τον κώδικα, τη διεπαφή ή την τεκμηρίωσή
+    του για να εκπαιδεύσετε, να προσαρμόσετε, να δοκιμάσετε ή να δημιουργήσετε
+    μοντέλο ή σύνολο δεδομένων μηχανικής μάθησης ή τεχνητής νοημοσύνης, ή για
+    να δημιουργήσετε προϊόν που ανταγωνίζεται το Λογισμικό·
+(θ) να χρησιμοποιείτε το Λογισμικό παράνομα, κατά παράβαση δικαιωμάτων άλλων ή
+    κατά παράβαση νόμων για τον έλεγχο εξαγωγών ή για κυρώσεις.
+
+6. ΤΑ ΣΧΕΔΙΑ ΣΑΣ
+
+(α) Τα Σχέδιά σας ανήκουν σε εσάς. Δεν διεκδικούμε κανένα δικαίωμα σε αυτά.
+(β) Το Λογισμικό κρατά τα Σχέδιά σας, τα λογότυπα και τις ρυθμίσεις σας στον
+    υπολογιστή σας. Δεν μας τα στέλνει.
+(γ) Ευθύνεστε να έχετε το δικαίωμα χρήσης των λογοτύπων, των γραφικών και των
+    σημάτων που προσθέτετε στο Λογισμικό, καθώς και να κρατάτε αντίγραφα
+    ασφαλείας της δουλειάς σας.
+
+7. ΛΟΓΙΣΜΙΚΟ ΚΑΙ ΥΠΗΡΕΣΙΕΣ ΤΡΙΤΩΝ
+
+(α) Το Λογισμικό περιέχει στοιχεία της Microsoft και άλλων τρίτων, όπως το
+    .NET runtime, το Windows App SDK, το Microsoft Edge WebView2 και τη
+    Microsoft Authentication Library. Αναφέρονται, με τις άδειες και τις
+    σημειώσεις τους, στο αρχείο THIRD-PARTY-NOTICES.txt και στον φάκελο Legal
+    που εγκαθίσταται με το Λογισμικό. Όπου η άδεια ενός τρίτου σάς δίνει
+    δικαιώματα για το στοιχείο του, τίποτα στην παρούσα Σύμβαση δεν περιορίζει
+    τα δικαιώματα αυτά.
+(β) Τα στοιχεία της Microsoft σάς παραχωρούνται με την παρούσα Σύμβαση. Η
+    Microsoft και οι λοιποί προμηθευτές μας δεν είναι συμβαλλόμενοι στην
+    παρούσα Σύμβαση, δεν σας παρέχουν καμία εγγύηση και, στον βαθμό που το
+    επιτρέπει ο νόμος, δεν φέρουν καμία ευθύνη απέναντί σας. Οι περιορισμοί
+    του άρθρου 5 προστατεύουν και τα δικά τους στοιχεία.
+(γ) Το Λογισμικό μπορεί να συνεργάζεται με το LightBurn, προϊόν της LightBurn
+    Software, LLC, και με το Pnevma Art Library. Το LightBurn δεν αποτελεί
+    μέρος του Λογισμικού και διέπεται από τη δική του άδεια.
+(δ) Τα Microsoft, Windows, Google, Apple, Facebook και LightBurn είναι σήματα
+    των δικαιούχων τους. Χρησιμοποιούνται μόνο για να κατονομάσουν τα
+    αντίστοιχα προϊόντα και υπηρεσίες, και οι δικαιούχοι τους δεν υποστηρίζουν
+    το Λογισμικό.
+
+8. ΕΝΗΜΕΡΩΣΕΙΣ ΚΑΙ ΑΛΛΑΓΕΣ
+
+(α) Μπορούμε να παρέχουμε ενημερώσεις που διορθώνουν προβλήματα, διατηρούν το
+    Λογισμικό ασφαλές ή λειτουργικό με την υπηρεσία αδειών, ή προσθέτουν ή
+    αλλάζουν λειτουργίες. Ορισμένες ενημερώσεις μπορεί να είναι απαραίτητες
+    για να συνεχίσετε να χρησιμοποιείτε την υπηρεσία αδειών.
+(β) Αν είστε Καταναλωτής, παρέχουμε τις ενημερώσεις που χρειάζονται ώστε το
+    Λογισμικό να παραμένει σύμφωνο με την παρούσα Σύμβαση για το διάστημα που
+    ορίζει ο νόμος. Αν αλλάξουμε το Λογισμικό πέρα από ό,τι χρειάζεται για να
+    παραμένει σύμφωνο, το κάνουμε μόνο όπως επιτρέπει ο νόμος, και σας
+    ενημερώνουμε εκ των προτέρων όταν μια αλλαγή θα επηρεάσει αρνητικά τη
+    χρήση του περισσότερο από ελάχιστα. Στην περίπτωση αυτή μπορείτε να λύσετε
+    τη συνδρομή σας χωρίς χρέωση εντός 30 ημερών από την αλλαγή.
+(γ) Μπορούμε να ενημερώνουμε την παρούσα Σύμβαση, για παράδειγμα όταν αλλάζει
+    το Λογισμικό, ο νόμος ή οι υπηρεσίες μας. Το Λογισμικό σάς δείχνει τη νέα
+    έκδοση και σας ζητά να την αποδεχτείτε. Αν δεν την αποδεχτείτε, μπορείτε
+    να σταματήσετε να χρησιμοποιείτε το Λογισμικό και, αν έχετε επί πληρωμή
+    συνδρομή, να τη λύσετε· τότε σας επιστρέφουμε το μέρος κάθε
+    προκαταβληθέντος τέλους που αντιστοιχεί στον χρόνο που δεν
+    χρησιμοποιήθηκε.
+
+9. ΔΙΑΡΚΕΙΑ ΚΑΙ ΛΥΣΗ
+
+(α) Η παρούσα Σύμβαση ισχύει από τη στιγμή που την αποδέχεστε και για όσο
+    διαθέτετε Άδεια.
+(β) Μπορείτε να σταματήσετε να χρησιμοποιείτε το Λογισμικό οποτεδήποτε. Η λύση
+    μιας επί πληρωμή συνδρομής διέπεται από τους όρους της παραγγελίας της.
+(γ) Μπορούμε να αναστείλουμε ή να τερματίσουμε την Άδειά σας αν παραβιάσετε
+    ουσιωδώς την παρούσα Σύμβαση. Εκτός αν η παράβαση είναι σοβαρή (για
+    παράδειγμα, πειρατεία ή παράκαμψη των ελέγχων άδειας) ή δεν μπορεί να
+    διορθωθεί, σας ενημερώνουμε πρώτα και σας δίνουμε εύλογο χρόνο να τη
+    διορθώσετε.
+(δ) Όταν λήξει η παρούσα Σύμβαση ή η Άδειά σας, πρέπει να σταματήσετε να
+    χρησιμοποιείτε το Λογισμικό και να το διαγράψετε. Τα άρθρα 5 έως 7 και 10
+    έως 14 εξακολουθούν να ισχύουν και μετά τη λήξη, στον βαθμό που αφορούν.
+
+10. ΤΑ ΝΟΜΙΜΑ ΔΙΚΑΙΩΜΑΤΑ ΣΑΣ ΚΑΙ Η ΕΓΓΥΗΣΗ ΜΑΣ
+
+(α) Αν είστε Καταναλωτής, έχετε τα δικαιώματα που προβλέπει ο νόμος όταν το
+    ψηφιακό περιεχόμενο δεν είναι σύμφωνο με τη σύμβαση, μεταξύ άλλων βάσει
+    της Οδηγίας (ΕΕ) 2019/770 και του ελληνικού νόμου που την ενσωματώνει (ν.
+    4967/2022). Τα δικαιώματα αυτά περιλαμβάνουν την αποκατάσταση της
+    συμμόρφωσης του Λογισμικού, τη μείωση της τιμής ή τη λύση της σύμβασης.
+    Τίποτα στην παρούσα Σύμβαση δεν περιορίζει τα δικαιώματα αυτά.
+(β) Πέρα από τα δικαιώματα της περίπτωσης (α) και όσα άλλα δικαιώματα δεν
+    μπορούν να αποκλειστούν από τον νόμο, το Λογισμικό παρέχεται «ως έχει» και
+    «ως διατίθεται». Δεν εγγυόμαστε ότι είναι απαλλαγμένο από σφάλματα, ότι θα
+    λειτουργεί χωρίς διακοπές ή ότι τα αποτελέσματά του θα ταιριάζουν στα
+    υλικά, στα μηχανήματα ή στους σκοπούς σας.
+(γ) Το Λογισμικό παράγει σχέδια κοπής και χάραξης. Ελέγχετε πάντα ένα σχέδιο
+    και κάνετε δοκιμαστική κοπή πριν το χρησιμοποιήσετε στην παραγωγή.
+    Ακολουθείτε τις οδηγίες ασφαλείας του κόφτη λέιζερ σας. Ευθύνεστε για τον
+    τρόπο που χειρίζεστε τα μηχανήματά σας.
+
+11. ΕΥΘΥΝΗ
+
+(α) Τίποτα στην παρούσα Σύμβαση δεν αποκλείει ούτε περιορίζει την ευθύνη για
+    δόλο ή βαριά αμέλεια, για θάνατο ή σωματική βλάβη, για απάτη, ή
+    οποιαδήποτε άλλη ευθύνη που δεν μπορεί να αποκλειστεί ή να περιοριστεί
+    κατά τον νόμο, μεταξύ άλλων κατά το άρθρο 332 του Αστικού Κώδικα. Τίποτα
+    στην παρούσα Σύμβαση δεν περιορίζει τα νόμιμα δικαιώματα των Καταναλωτών.
+(β) Αν είστε Καταναλωτής, ευθυνόμαστε απέναντί σας όπως ορίζει ο νόμος.
+(γ) Αν χρησιμοποιείτε το Λογισμικό για επαγγελματικούς σκοπούς, τότε, με την
+    επιφύλαξη της περίπτωσης (α): δεν ευθυνόμαστε για έμμεση ή αποθετική
+    ζημία, διαφυγόν κέρδος, απώλεια δεδομένων, σπατάλη υλικού ή χρόνου
+    μηχανήματος ή διακοπή εργασιών· και η συνολική μας ευθύνη για όλες τις
+    αξιώσεις που αφορούν το Λογισμικό περιορίζεται στα τέλη που μας καταβάλατε
+    για τη σχετική Άδεια κατά τους 12 μήνες πριν από το γεγονός που προκάλεσε
+    την αξίωση.
+
+12. ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ
+
+Χειριζόμαστε τα προσωπικά σας δεδομένα όπως περιγράφει το Μέρος Β.
+
+13. ΕΦΑΡΜΟΣΤΕΟ ΔΙΚΑΙΟ ΚΑΙ ΔΙΑΦΟΡΕΣ
+
+(α) Η παρούσα Σύμβαση διέπεται από το ελληνικό δίκαιο, με εξαίρεση τους
+    κανόνες του για τη σύγκρουση νόμων και τη Σύμβαση των Ηνωμένων Εθνών για
+    τις Συμβάσεις Διεθνούς Πώλησης Εμπορευμάτων.
+(β) Για τις διαφορές που προκύπτουν από την παρούσα Σύμβαση αρμόδια είναι τα
+    δικαστήρια της Ελλάδας.
+(γ) Αν είστε Καταναλωτής και ζείτε σε άλλη χώρα, διατηρείτε την προστασία των
+    αναγκαστικών διατάξεων του δικαίου της χώρας αυτής και μπορείτε επίσης να
+    προσφύγετε στα δικαστήριά της.
+(δ) Παρακαλούμε επικοινωνήστε πρώτα μαζί μας, ώστε να προσπαθήσουμε να λύσουμε
+    μαζί ένα πρόβλημα. Οι Καταναλωτές στην Ελλάδα μπορούν επίσης να
+    απευθυνθούν στον Συνήγορο του Καταναλωτή (www.synigoroskatanaloti.gr) για
+    εξωδικαστική επίλυση.
+
+14. ΓΕΝΙΚΟΙ ΟΡΟΙ
+
+(α) Η παρούσα Σύμβαση, μαζί με τους όρους παραγγελίας της Άδειάς σας, αποτελεί
+    την πλήρη συμφωνία μεταξύ εσάς και ημών για το Λογισμικό.
+(β) Αν κάποιος όρος της παρούσας Σύμβασης κριθεί άκυρος ή ανεφάρμοστος, οι
+    υπόλοιποι εξακολουθούν να ισχύουν, και ο άκυρος όρος αντικαθίσταται από
+    έγκυρο που προσεγγίζει όσο το δυνατόν περισσότερο τον σκοπό του.
+(γ) Αν δεν ασκήσουμε αμέσως ένα δικαίωμα, δεν παραιτούμαστε από αυτό.
+(δ) Δεν μπορείτε να μεταβιβάσετε την παρούσα Σύμβαση ή την Άδειά σας χωρίς τη
+    γραπτή μας συναίνεση. Μπορούμε να μεταβιβάσουμε την παρούσα Σύμβαση σε
+    διάδοχο της επιχείρησής μας, εφόσον τα δικαιώματά σας από αυτήν δεν
+    περιορίζονται.
+(ε) Μπορούμε να σας στέλνουμε ειδοποιήσεις για το Λογισμικό και την Άδειά σας
+    στη διεύθυνση email του Λογαριασμού σας ή να τις εμφανίζουμε στο
+    Λογισμικό.
+(στ) Μπορείτε να κρατήσετε αντίγραφο της παρούσας Σύμβασης: εγκαθίσταται με το
+     Λογισμικό ως LICENSE.txt και στον φάκελο Legal, και μπορείτε να την
+     ανοίξετε οποτεδήποτε από τις Ρυθμίσεις.
+
+ΜΕΡΟΣ Β. ΕΝΗΜΕΡΩΣΗ ΓΙΑ ΤΗΝ ΠΡΟΣΤΑΣΙΑ ΤΩΝ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ
+
+Η παρούσα ενημέρωση εξηγεί πώς η Pnevma επεξεργάζεται προσωπικά δεδομένα σε
+σχέση με το Λογισμικό, όπως απαιτεί ο Γενικός Κανονισμός για την Προστασία
+Δεδομένων (Κανονισμός (ΕΕ) 2016/679, «ΓΚΠΔ»).
+
+Β1. ΥΠΕΥΘΥΝΟΣ ΕΠΕΞΕΡΓΑΣΙΑΣ
+
+Η Pnevma είναι υπεύθυνη επεξεργασίας για τα προσωπικά δεδομένα που
+περιγράφονται εδώ. Επικοινωνία: info@pnevmagifts.gr.
+
+Β2. ΠΟΙΑ ΔΕΔΟΜΕΝΑ ΕΠΕΞΕΡΓΑΖΟΜΑΣΤΕ
+
+(α) Δεδομένα λογαριασμού: η διεύθυνση email σας, το όνομα που δίνετε (αν
+    δώσετε) και το μοναδικό αναγνωριστικό λογαριασμού που αποδίδει η υπηρεσία
+    σύνδεσης. Τον κωδικό πρόσβασής σας τον χειρίζεται για λογαριασμό μας η
+    υπηρεσία σύνδεσης της Microsoft· εμείς δεν τον βλέπουμε ποτέ.
+(β) Δεδομένα άδειας: ο κωδικός του υπολογιστή σας (βλ. άρθρο 3(β))· τα
+    προϊόντα, οι τύποι, τα προγράμματα, η κατάσταση και οι ημερομηνίες των
+    Αδειών σας, όπως ενεργοποίηση, τελευταίος έλεγχος και λήξη· η έκδοση του
+    Λογισμικού που έκανε τον τελευταίο έλεγχο· πόσες φορές μεταφέρθηκε μια
+    Άδεια σε άλλον υπολογιστή· και οι σημειώσεις που κρατάμε για την
+    παραγγελία σας.
+(γ) Τεχνικά δεδομένα: όταν το Λογισμικό επικοινωνεί με την υπηρεσία αδειών, ο
+    πάροχος φιλοξενίας μας καταγράφει την ώρα, το αποτέλεσμα και στοιχεία
+    δικτύου, όπως τη διεύθυνση IP σας, για λόγους ασφάλειας, για την
+    αντιμετώπιση προβλημάτων και για τη λειτουργία της υπηρεσίας.
+(δ) Δεδομένα υποστήριξης: τα μηνύματα που μας στέλνετε και τα στοιχεία που
+    επιλέγετε να περιλάβετε, όπως τον κωδικό υπολογιστή και την κατάσταση της
+    άδειάς σας.
+(ε) Δεδομένα πληρωμής και τιμολόγησης, όταν παραγγέλνετε επί πληρωμή συνδρομή,
+    όπως περιγράφουν οι όροι παραγγελίας μας.
+
+Τι μένει στον υπολογιστή σας: τα Σχέδιά σας, τα λογότυπα, οι ρυθμίσεις σας, η
+υπογεγραμμένη άδειά σας και η συνεδρία σύνδεσής σας (αποθηκεύονται
+κρυπτογραφημένα για τον λογαριασμό σας στα Windows). Το Λογισμικό δεν μας τα
+στέλνει.
+
+Τι δεν κάνουμε: δεν χρησιμοποιούμε τα δεδομένα σας για διαφήμιση, δεν τα
+πωλούμε, δεν παρακολουθούμε πώς χρησιμοποιείτε τις λειτουργίες του Λογισμικού
+και δεν χρησιμοποιούμε τα δεδομένα σας για την εκπαίδευση μοντέλων τεχνητής
+νοημοσύνης.
+
+Β3. ΓΙΑΤΙ ΤΑ ΕΠΕΞΕΡΓΑΖΟΜΑΣΤΕ ΚΑΙ ΜΕ ΠΟΙΑ ΝΟΜΙΚΗ ΒΑΣΗ
+
+(α) Για να παρέχουμε τον Λογαριασμό και την Άδειά σας, να την ελέγχουμε και να
+    την περιορίζουμε σε έναν υπολογιστή: είναι απαραίτητο για την εκτέλεση της
+    σύμβασής μας μαζί σας (άρθρο 6 παρ. 1 στοιχ. β΄ ΓΚΠΔ).
+(β) Για να προστατεύουμε το Λογισμικό και την υπηρεσία αδειών από κατάχρηση
+    και επιθέσεις και για να διορθώνουμε προβλήματα: έννομο συμφέρον μας για
+    μια ασφαλή υπηρεσία που λειτουργεί (άρθρο 6 παρ. 1 στοιχ. στ΄ ΓΚΠΔ).
+(γ) Για να απαντάμε στα μηνύματά σας: για την εκτέλεση της σύμβασής μας μαζί
+    σας ή λόγω του έννομου συμφέροντός μας να σας βοηθήσουμε.
+(δ) Για να τηρούμε τα τιμολόγια και τα άλλα αρχεία που απαιτούν οι φορολογικοί
+    και λογιστικοί νόμοι: νομικές υποχρεώσεις μας (άρθρο 6 παρ. 1 στοιχ. γ΄
+    ΓΚΠΔ).
+
+Τα δεδομένα λογαριασμού και άδειας είναι απαραίτητα για τη χρήση του
+Λογισμικού. Χωρίς αυτά δεν μπορούμε να ενεργοποιήσουμε Άδεια.
+
+Η υπηρεσία αδειών αποφασίζει αυτόματα αν μια Άδεια ισχύει σε έναν υπολογιστή,
+εφαρμόζοντας τους όρους της Άδειας. Αν πιστεύετε ότι μια απόφαση είναι
+λανθασμένη, επικοινωνήστε μαζί μας και θα την εξετάσει άνθρωπος.
+
+Β4. ΠΟΙΟΙ ΤΑ ΛΑΜΒΑΝΟΥΝ
+
+(α) Η Microsoft Ireland Operations Limited και οι συνδεδεμένες με αυτήν
+    εταιρείες, οι οποίες φιλοξενούν την υπηρεσία αδειών (Microsoft Azure),
+    παρέχουν την υπηρεσία σύνδεσης (Microsoft Entra External ID) και
+    καταγράφουν τα τεχνικά δεδομένα (Azure Application Insights). Ενεργούν ως
+    εκτελούντες την επεξεργασία για λογαριασμό μας, σύμφωνα με το Data
+    Protection Addendum της Microsoft.
+(β) Οι πάροχοι των υπηρεσιών email, λογιστικής και πληρωμών μας, για τα
+    δεδομένα που χρειάζονται.
+(γ) Οι αρχές, όταν το απαιτεί ο νόμος.
+
+Δεν πωλούμε ούτε εκμισθώνουμε προσωπικά δεδομένα.
+
+Β5. ΠΟΥ ΑΠΟΘΗΚΕΥΟΝΤΑΙ
+
+Η υπηρεσία αδειών και τα δεδομένα της φιλοξενούνται στην περιοχή North Europe
+(Ιρλανδία) της Microsoft, στην Ευρωπαϊκή Ένωση. Η Microsoft μπορεί να
+επεξεργάζεται ορισμένα δεδομένα εκτός του Ευρωπαϊκού Οικονομικού Χώρου, για
+παράδειγμα για υποστήριξη ή ασφάλεια, με τις εγγυήσεις του Data Protection
+Addendum της, όπως οι Τυποποιημένες Συμβατικές Ρήτρες της ΕΕ και το Πλαίσιο
+Προστασίας Δεδομένων ΕΕ-ΗΠΑ.
+
+Β6. ΠΟΣΟ ΚΑΙΡΟ ΤΑ ΚΡΑΤΑΜΕ
+
+(α) Δεδομένα λογαριασμού και άδειας: για όσο έχετε Λογαριασμό ή Άδεια και έως
+    2 χρόνια μετά τη λήξη της τελευταίας σας Άδειας, ώστε να απαντάμε σε
+    ερωτήματα και να θεμελιώνουμε ή να υπερασπιζόμαστε νομικές αξιώσεις.
+(β) Τεχνικά δεδομένα: έως 90 ημέρες.
+(γ) Μηνύματα υποστήριξης: έως 2 χρόνια μετά το κλείσιμο του θέματος.
+(δ) Τιμολόγια και λογιστικά αρχεία: για όσο απαιτούν οι φορολογικοί και
+    λογιστικοί νόμοι.
+
+Μπορείτε να μας ζητήσετε να διαγράψουμε νωρίτερα τον Λογαριασμό σας (βλ. Β7).
+
+Β7. ΤΑ ΔΙΚΑΙΩΜΑΤΑ ΣΑΣ
+
+Έχετε δικαίωμα πρόσβασης στα προσωπικά σας δεδομένα, διόρθωσης ή διαγραφής
+τους, περιορισμού της επεξεργασίας τους, λήψης τους σε φορητή μορφή, καθώς και
+δικαίωμα εναντίωσης στην επεξεργασία που βασίζεται στο έννομο συμφέρον μας.
+Για να ασκήσετε τα δικαιώματα αυτά ή για να διαγραφούν ο Λογαριασμός και οι
+Άδειές σας, γράψτε στο info@pnevmagifts.gr. Μπορεί να χρειαστεί πρώτα να
+επιβεβαιώσουμε την ταυτότητά σας. Απαντάμε εντός ενός μηνός.
+
+Έχετε επίσης δικαίωμα να υποβάλετε καταγγελία σε εποπτική αρχή προστασίας
+δεδομένων: στην Ελλάδα, στην Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+(www.dpa.gr), ή στην αρχή της χώρας όπου ζείτε ή εργάζεστε.
+
+Β8. ΠΑΙΔΙΑ
+
+Το Λογισμικό δεν απευθύνεται σε παιδιά. Μη δημιουργείτε Λογαριασμό αν είστε
+κάτω των 16 ετών.
+
+Β9. ΑΛΛΑΓΕΣ
+
+Αν αλλάξουμε την παρούσα ενημέρωση, σας δείχνουμε τη νέα έκδοση στο Λογισμικό,
+όπως περιγράφει το άρθρο 8(γ).
+
+ΕΠΙΚΟΙΝΩΝΙΑ
+
+Pnevma, email info@pnevmagifts.gr, ιστότοπος https://pnevmagifts.gr
