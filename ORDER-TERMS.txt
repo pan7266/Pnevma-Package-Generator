@@ -2,12 +2,13 @@
 
 ORDER TERMS
 
-Version 1.0, effective 20 November 2026
+Version 1.1, effective 20 November 2026
 
 These Order Terms apply when you buy a paid License (a subscription) for
 Pnevma Package Manager from Anastasia Pnevmatikou (Πνευματικού Αναστασία),
 Kountouriotou 7, 18756 Keratsini, Greece, tax number (AFM) 157448195
-("Pnevma", "we", "us"). Contact: info@pnevmagifts.gr, https://pnevmagifts.gr.
+("Pnevma", "we", "us"). Contact: info@pnevmagifts.gr, telephone +30
+6946123269, https://pnevmagifts.gr.
 
 They complete the End User License Agreement (LICENSE.txt) and use its
 definitions. They are available in English and in Greek. If the two versions
@@ -111,8 +112,8 @@ differ, the Greek version prevails, to the extent the law allows.
     rights described in section 10 of the End User License Agreement. For a
     subscription, we are responsible for its conformity for the whole period.
 (b) To report a problem or make a complaint, write to info@pnevmagifts.gr with
-    the e-mail address of your Account and a short description. We reply as
-    soon as we can, and within 30 days at the latest.
+    the e-mail address of your Account and a short description, or call +30
+    6946123269. We reply as soon as we can, and within 30 days at the latest.
 (c) Consumers in Greece may also turn to the Hellenic Consumer Ombudsman
     (www.synigoroskatanaloti.gr) for out-of-court resolution.
 
@@ -163,12 +164,13 @@ PNEVMA PACKAGE MANAGER
 
 ΟΡΟΙ ΠΑΡΑΓΓΕΛΙΑΣ
 
-Έκδοση 1.0, σε ισχύ από 20 Νοεμβρίου 2026
+Έκδοση 1.1, σε ισχύ από 20 Νοεμβρίου 2026
 
 Οι παρόντες Όροι Παραγγελίας ισχύουν όταν αγοράζετε επί πληρωμή Άδεια
 (συνδρομή) για το Pnevma Package Manager από την Πνευματικού Αναστασία,
 Κουντουριώτου 7, 18756 Κερατσίνι, ΑΦΜ 157448195 («Pnevma», «εμείς»).
-Επικοινωνία: info@pnevmagifts.gr, https://pnevmagifts.gr.
+Επικοινωνία: info@pnevmagifts.gr, τηλέφωνο +30 6946123269,
+https://pnevmagifts.gr.
 
 Συμπληρώνουν τη Σύμβαση Άδειας Χρήσης Τελικού Χρήστη (LICENSE.txt) και
 χρησιμοποιούν τους ορισμούς της. Διατίθενται στα Ελληνικά και στα Αγγλικά. Αν
@@ -284,7 +286,8 @@ PNEVMA PACKAGE MANAGER
     την περίοδο.
 (β) Για να αναφέρετε πρόβλημα ή να υποβάλετε παράπονο, γράψτε στο
     info@pnevmagifts.gr με το email του Λογαριασμού σας και μια σύντομη
-    περιγραφή. Απαντάμε το συντομότερο δυνατό και το αργότερο εντός 30 ημερών.
+    περιγραφή ή καλέστε στο +30 6946123269. Απαντάμε το συντομότερο δυνατό και
+    το αργότερο εντός 30 ημερών.
 (γ) Οι Καταναλωτές στην Ελλάδα μπορούν επίσης να απευθυνθούν στον Συνήγορο του
     Καταναλωτή (www.synigoroskatanaloti.gr) για εξωδικαστική επίλυση.
 

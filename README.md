@@ -12,13 +12,14 @@ own layers. Put a logo or a repeating pattern on the lid, and see how many boxes
 
 **[Latest release](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**
 
-Version 0.1.2 adds the order terms, names the licensor in the agreement, and comes as a single `.exe` as well as a zip.
+Version 0.1.3 adds a telephone number to the order terms. Since 0.1.2 the app comes as a single `.exe` as well as a
+zip, with the order terms and the licensor's details in the agreement.
 
 ## Install
 
 **The single exe (simplest)**
 
-1. Download `Pnevma-Package-Manager-0.1.2-win-x64.exe` from the release.
+1. Download `Pnevma-Package-Manager-0.1.3-win-x64.exe` from the release.
 2. Move it to a folder you keep, such as `Documents`, and run it. The first start takes a little longer, because it
    unpacks itself.
 3. The app is not code-signed yet, so Windows may say **"Windows protected your PC"**. Click **More info**, then
@@ -26,7 +27,7 @@ Version 0.1.2 adds the order terms, names the licensor in the agreement, and com
 
 **Or the zip**
 
-1. Download `Pnevma-Package-Manager-0.1.2-win-x64.zip`, right-click it, choose **Extract All…**, and pick a folder you
+1. Download `Pnevma-Package-Manager-0.1.3-win-x64.zip`, right-click it, choose **Extract All…**, and pick a folder you
    keep. Don't run the app from inside the zip.
 2. Open the `Pnevma Package Manager` folder and run `Pnevma.PackageGenerator.exe`.
 
@@ -60,7 +61,7 @@ form. In the app, **Settings → License and account → Order terms** opens the
 Compare the file's fingerprint with `SHA256SUMS.txt` in the release. In PowerShell, in the folder with the download:
 
 ```powershell
-Get-FileHash .\Pnevma-Package-Manager-0.1.2-win-x64.exe -Algorithm SHA256
+Get-FileHash .\Pnevma-Package-Manager-0.1.3-win-x64.exe -Algorithm SHA256
 ```
 
 ## Support
@@ -82,7 +83,7 @@ see [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
 Το **Pnevma Package Manager** σχεδιάζει κουτιά με καπάκι και τα στέλνει κατευθείαν στο LightBurn, σε πραγματικό
 μέγεθος και σε έτοιμα layers.
 
-1. Κατεβάστε το `Pnevma-Package-Manager-0.1.2-win-x64.exe` από την
+1. Κατεβάστε το `Pnevma-Package-Manager-0.1.3-win-x64.exe` από την
    **[τελευταία έκδοση](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**, μετακινήστε το σε έναν
    φάκελο που κρατάτε και ανοίξτε το. Η πρώτη εκκίνηση αργεί λίγο. (Υπάρχει και zip: δεξί κλικ → **Εξαγωγή όλων…** και
    ανοίξτε το `Pnevma.PackageGenerator.exe` από τον φάκελο.)
