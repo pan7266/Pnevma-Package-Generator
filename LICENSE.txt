@@ -2,7 +2,7 @@
 
 END USER LICENSE AGREEMENT AND PRIVACY NOTICE
 
-Version 1.1, effective 20 November 2026
+Version 1.2, effective 21 November 2026
 
 This End User License Agreement ("Agreement") is a contract between you and
 Anastasia Pnevmatikou (Πνευματικού Αναστασία), Kountouriotou 7, 18756
@@ -160,6 +160,15 @@ this section, you must not:
     to accept it. If you do not accept it, you may stop using the Software
     and, if you have a paid subscription, end it; we then refund the unused
     part of any fee you paid in advance.
+(d) The Software can look for updates and install them in place. It asks
+    GitHub, where we publish the releases of the Software, for the newest
+    version: when it starts (at most about once a day; you can turn this off
+    in Settings) and when you choose Check for updates. An update is
+    downloaded and installed only when you choose Update now: the Software
+    then downloads the new version from GitHub, checks it against the
+    checksums published with that release, puts it in place of the copy on
+    your computer and restarts. You can also download any release yourself
+    from the release page.
 
 9. TERM AND TERMINATION
 
@@ -272,6 +281,10 @@ B2. WHAT DATA WE PROCESS
     include, such as your computer code and license status.
 (e) Payment and invoicing data, when you order a paid subscription, as our
     Order Terms describe.
+(f) Update checks: when the Software looks for or downloads an update, your
+    computer connects to GitHub, which receives your IP address and the name
+    and version of the Software, as with any visit to a website. We do not
+    receive this data.
 
 What stays on your computer: Your Designs, your logos, your settings, your
 signed license and your sign-in session (stored encrypted for your Windows
@@ -293,6 +306,10 @@ B3. WHY WE PROCESS IT, AND ON WHAT LEGAL BASIS
     legitimate interest in helping you.
 (d) To keep the invoices and other records that tax and accounting laws
     require: our legal obligations (Article 6(1)(c) GDPR).
+(e) To let the Software look for and install updates, so that it stays secure
+    and working: our legitimate interest, and yours, in an up-to-date Software
+    (Article 6(1)(f) GDPR). You can turn the automatic check off in Settings;
+    the Software then contacts GitHub only when you choose Check for updates.
 
 The account and license data are needed to use the Software. Without them, we
 cannot activate a License.
@@ -311,6 +328,9 @@ B4. WHO RECEIVES IT
 (b) The providers of our e-mail, accounting and payment services, for the data
     they need.
 (c) Authorities, when the law requires it.
+(d) GitHub, Inc. (United States), which hosts the releases of the Software and
+    answers its update checks (B2(f)). GitHub processes that data under its
+    own privacy statement, not on our instructions.
 
 We do not sell or rent personal data.
 
@@ -321,6 +341,9 @@ The license service and its data are hosted in Microsoft's North Europe region
 European Economic Area, for example for support or security, under the
 safeguards of its Data Protection Addendum, such as the EU Standard
 Contractual Clauses and the EU-US Data Privacy Framework.
+
+Update checks and downloads (B2(f)) go to GitHub, which may process them in
+the United States under the safeguards that its privacy statement describes.
 
 B6. HOW LONG WE KEEP IT
 
@@ -368,7 +391,7 @@ PNEVMA PACKAGE MANAGER
 
 ΣΥΜΒΑΣΗ ΑΔΕΙΑΣ ΧΡΗΣΗΣ ΤΕΛΙΚΟΥ ΧΡΗΣΤΗ ΚΑΙ ΕΝΗΜΕΡΩΣΗ ΓΙΑ ΤΑ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ
 
-Έκδοση 1.1, σε ισχύ από 20 Νοεμβρίου 2026
+Έκδοση 1.2, σε ισχύ από 21 Νοεμβρίου 2026
 
 Η παρούσα Σύμβαση Άδειας Χρήσης Τελικού Χρήστη («Σύμβαση») συνάπτεται μεταξύ
 εσάς και της Πνευματικού Αναστασίας, Κουντουριώτου 7, 18756 Κερατσίνι, ΑΦΜ
@@ -549,6 +572,16 @@ PNEVMA PACKAGE MANAGER
     συνδρομή, να τη λύσετε· τότε σας επιστρέφουμε το μέρος κάθε
     προκαταβληθέντος τέλους που αντιστοιχεί στον χρόνο που δεν
     χρησιμοποιήθηκε.
+(δ) Το Λογισμικό μπορεί να αναζητά ενημερώσεις και να τις εγκαθιστά στη θέση
+    του. Ρωτά το GitHub, όπου δημοσιεύουμε τις εκδόσεις του Λογισμικού, ποια
+    είναι η νεότερη έκδοση: κατά την έναρξή του (το πολύ περίπου μία φορά την
+    ημέρα· μπορείτε να το απενεργοποιήσετε στις Ρυθμίσεις) και όταν επιλέγετε
+    «Έλεγχος για ενημερώσεις». Μια ενημέρωση κατεβαίνει και εγκαθίσταται μόνο
+    όταν επιλέγετε «Ενημέρωση τώρα»: το Λογισμικό τότε κατεβάζει τη νέα έκδοση
+    από το GitHub, την ελέγχει με τα αθροίσματα ελέγχου που δημοσιεύονται με
+    την έκδοση αυτή, τη βάζει στη θέση του αντιγράφου στον υπολογιστή σας και
+    επανεκκινεί. Μπορείτε επίσης να κατεβάσετε μόνοι σας οποιαδήποτε έκδοση
+    από τη σελίδα εκδόσεων.
 
 9. ΔΙΑΡΚΕΙΑ ΚΑΙ ΛΥΣΗ
 
@@ -671,6 +704,10 @@ info@pnevmagifts.gr.
     άδειάς σας.
 (ε) Δεδομένα πληρωμής και τιμολόγησης, όταν παραγγέλνετε επί πληρωμή συνδρομή,
     όπως περιγράφουν οι Όροι Παραγγελίας μας.
+(στ) Έλεγχοι ενημερώσεων: όταν το Λογισμικό αναζητά ή κατεβάζει μια ενημέρωση,
+     ο υπολογιστής σας συνδέεται με το GitHub, το οποίο λαμβάνει τη διεύθυνση
+     IP σας και το όνομα και την έκδοση του Λογισμικού, όπως σε κάθε επίσκεψη
+     σε έναν ιστότοπο. Εμείς δεν λαμβάνουμε αυτά τα δεδομένα.
 
 Τι μένει στον υπολογιστή σας: τα Σχέδιά σας, τα λογότυπα, οι ρυθμίσεις σας, η
 υπογεγραμμένη άδειά σας και η συνεδρία σύνδεσής σας (αποθηκεύονται
@@ -695,6 +732,12 @@ info@pnevmagifts.gr.
 (δ) Για να τηρούμε τα τιμολόγια και τα άλλα αρχεία που απαιτούν οι φορολογικοί
     και λογιστικοί νόμοι: νομικές υποχρεώσεις μας (άρθρο 6 παρ. 1 στοιχ. γ΄
     ΓΚΠΔ).
+(ε) Για να μπορεί το Λογισμικό να αναζητά και να εγκαθιστά ενημερώσεις, ώστε
+    να παραμένει ασφαλές και λειτουργικό: έννομο συμφέρον δικό μας και δικό
+    σας για ένα ενημερωμένο Λογισμικό (άρθρο 6 παρ. 1 στοιχ. στ΄ ΓΚΠΔ).
+    Μπορείτε να απενεργοποιήσετε τον αυτόματο έλεγχο στις Ρυθμίσεις· τότε το
+    Λογισμικό επικοινωνεί με το GitHub μόνο όταν επιλέγετε «Έλεγχος για
+    ενημερώσεις».
 
 Τα δεδομένα λογαριασμού και άδειας είναι απαραίτητα για τη χρήση του
 Λογισμικού. Χωρίς αυτά δεν μπορούμε να ενεργοποιήσουμε Άδεια.
@@ -714,6 +757,10 @@ info@pnevmagifts.gr.
 (β) Οι πάροχοι των υπηρεσιών email, λογιστικής και πληρωμών μας, για τα
     δεδομένα που χρειάζονται.
 (γ) Οι αρχές, όταν το απαιτεί ο νόμος.
+(δ) Η GitHub, Inc. (Ηνωμένες Πολιτείες), η οποία φιλοξενεί τις εκδόσεις του
+    Λογισμικού και απαντά στους ελέγχους ενημερώσεων (Β2(στ)). Η GitHub
+    επεξεργάζεται τα δεδομένα αυτά σύμφωνα με τη δική της δήλωση απορρήτου και
+    όχι κατ' εντολή μας.
 
 Δεν πωλούμε ούτε εκμισθώνουμε προσωπικά δεδομένα.
 
@@ -725,6 +772,10 @@ info@pnevmagifts.gr.
 παράδειγμα για υποστήριξη ή ασφάλεια, με τις εγγυήσεις του Data Protection
 Addendum της, όπως οι Τυποποιημένες Συμβατικές Ρήτρες της ΕΕ και το Πλαίσιο
 Προστασίας Δεδομένων ΕΕ-ΗΠΑ.
+
+Οι έλεγχοι και οι λήψεις ενημερώσεων (Β2(στ)) πηγαίνουν στο GitHub, το οποίο
+μπορεί να τους επεξεργάζεται στις Ηνωμένες Πολιτείες με τις εγγυήσεις που
+περιγράφει η δήλωση απορρήτου του.
 
 Β6. ΠΟΣΟ ΚΑΙΡΟ ΤΑ ΚΡΑΤΑΜΕ
 
