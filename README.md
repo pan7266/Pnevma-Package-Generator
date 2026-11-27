@@ -12,15 +12,16 @@ own layers. Put a logo or a repeating pattern on the lid, and see how many boxes
 
 **[Latest release](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**
 
-Version 0.5.0 fits more boxes on a board (the pieces nest by their real shape), sends the whole sheet to LightBurn,
-and updates itself: **Settings → Updates → Update now**. Download 0.5.0 once; later versions install from inside the
-app. The license agreement is now version 1.2, so the app asks you to accept it again.
+Version 0.5.1 shows how many boxes one board gives without a number of boxes (one sheet, or a lid sheet plus a base
+sheet), and **Pair LightBurn** now sits next to **Settings**. With 0.5.0, **Settings → Updates → Update now** installs
+it; with an older version, download it once and later versions install from inside the app. Version 0.5.0 brought
+nesting by shape, the whole sheet to LightBurn, updates from inside the app and license agreement 1.2.
 
 ## Install
 
 **The single exe (simplest)**
 
-1. Download `Pnevma-Package-Manager-0.5.0-win-x64.exe` from the release.
+1. Download `Pnevma-Package-Manager-0.5.1-win-x64.exe` from the release.
 2. Move it to a folder you keep, such as `Documents`, and run it. The first start takes a little longer, because it
    unpacks itself.
 3. The app is not code-signed yet, so Windows may say **"Windows protected your PC"**. Click **More info**, then
@@ -28,7 +29,7 @@ app. The license agreement is now version 1.2, so the app asks you to accept it 
 
 **Or the zip**
 
-1. Download `Pnevma-Package-Manager-0.5.0-win-x64.zip`, right-click it, choose **Extract All…**, and pick a folder you
+1. Download `Pnevma-Package-Manager-0.5.1-win-x64.zip`, right-click it, choose **Extract All…**, and pick a folder you
    keep. Don't run the app from inside the zip.
 2. Open the `Pnevma Package Manager` folder and run `Pnevma.PackageGenerator.exe`.
 
@@ -70,7 +71,7 @@ form. In the app, **Settings → License and account → Order terms** opens the
 Compare the file's fingerprint with `SHA256SUMS.txt` in the release. In PowerShell, in the folder with the download:
 
 ```powershell
-Get-FileHash .\Pnevma-Package-Manager-0.5.0-win-x64.exe -Algorithm SHA256
+Get-FileHash .\Pnevma-Package-Manager-0.5.1-win-x64.exe -Algorithm SHA256
 ```
 
 ## Support
@@ -93,7 +94,7 @@ see [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
 Το **Pnevma Package Manager** σχεδιάζει κουτιά με καπάκι και τα στέλνει κατευθείαν στο LightBurn, σε πραγματικό
 μέγεθος και σε έτοιμα layers.
 
-1. Κατεβάστε το `Pnevma-Package-Manager-0.5.0-win-x64.exe` από την
+1. Κατεβάστε το `Pnevma-Package-Manager-0.5.1-win-x64.exe` από την
    **[τελευταία έκδοση](https://github.com/pan7266/Pnevma-Package-Generator/releases/latest)**, μετακινήστε το σε έναν
    φάκελο που κρατάτε και ανοίξτε το. Η πρώτη εκκίνηση αργεί λίγο. (Υπάρχει και zip: δεξί κλικ → **Εξαγωγή όλων…** και
    ανοίξτε το `Pnevma.PackageGenerator.exe` από τον φάκελο.)
@@ -106,8 +107,10 @@ see [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
 5. Αν δεν έχετε ακόμη άδεια, στείλτε μας το μήνυμα από το **Contact us**. Περιέχει ήδη τον κωδικό του υπολογιστή σας.
 6. Όταν σας ενημερώσουμε, πατήστε **Try again**. Μετά, από **Settings → Language / Γλώσσα** επιλέξτε Ελληνικά.
 
-Από την έκδοση 0.5.0 η εφαρμογή ενημερώνεται μόνη της: **Ρυθμίσεις → Ενημερώσεις → Ενημέρωση τώρα**. Κατεβάστε την 0.5.0
-μία φορά· οι επόμενες εκδόσεις εγκαθίστανται μέσα από την εφαρμογή, χωρίς να χαθούν κουτιά, λογότυπα, ρυθμίσεις ή η άδεια.
+Από την έκδοση 0.5.0 η εφαρμογή ενημερώνεται μόνη της: **Ρυθμίσεις → Ενημερώσεις → Ενημέρωση τώρα**. Με παλαιότερη
+έκδοση, κατεβάστε την τελευταία μία φορά· οι επόμενες εγκαθίστανται μέσα από την εφαρμογή, χωρίς να χαθούν κουτιά,
+λογότυπα, ρυθμίσεις ή η άδεια. Στην 0.5.1, αφήστε κενό το **Κουτιά** στο Φύλλο υλικού για να δείτε πόσα κουτιά βγάζει
+ένα φύλλο, ή ένα φύλλο καπακιών και ένα φύλλο βάσεων.
 
 Μία άδεια = ένας υπολογιστής. Οι όροι χρήσης και η ενημέρωση για τα προσωπικά δεδομένα βρίσκονται στο
 [LICENSE.txt](LICENSE.txt) και οι όροι αγοράς στο [ORDER-TERMS.txt](ORDER-TERMS.txt). Πνευματικού Αναστασία (Pnevma),
